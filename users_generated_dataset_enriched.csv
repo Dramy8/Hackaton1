@@ -1,0 +1,1001 @@
+user_id,name,age,interest,preferred_format,activity_type,content_category,content_format,content_popularity,engagement_score,recommended_content,time_spent_minutes,clicks_count,previous_interactions,user_rating,activity_hour,recommendation_score
+1,Carter Taylor,20,education,tutorial,shared,education,tutorial,43,65.0,Study skills tutorial,34.2,5.0,7,4.0,19,65.0
+2,Grace Smith,46,technology,tutorial,shared,technology,tutorial,24,73.0,Tech trends newsletter,30.5,5.0,15,4.1,10,66.6
+3,Ella Johnson,40,movies,video,viewed,finance,video,79,50.0,Market update podcast,16.8,5.0,12,3.0,7,66.0
+4,Samuel Wilson,58,education,newsletter,completed,fashion,newsletter,57,58.0,Fashion newsletter,15.2,6.0,2,3.1,9,59.5
+5,Ella Davis,47,travel,newsletter,viewed,travel,newsletter,74,66.0,Budget travel newsletter,2.4,8.0,9,4.1,13,76.0
+6,Zoe Wright,33,music,playlist,liked,music,blog,68,61.0,Indie music podcast,6.9,10.0,12,4.1,10,73.1
+7,Charlotte Moore,35,gaming,video,viewed,fashion,video,62,43.0,Style trends video,14.5,10.0,12,3.3,20,59.2
+8,Matthew Brown,34,music,newsletter,liked,movies,newsletter,55,,Top films blog,8.9,5.0,9,3.0,17,64.8
+9,Nora Harris,23,music,podcast,completed,music,podcast,50,75.0,Trending pop playlist,37.9,3.0,10,4.7,13,76.2
+10,Leah White,51,finance,newsletter,viewed,finance,tutorial,70,63.0,Market update podcast,20.6,5.0,5,3.3,11,67.8
+11,Aiden Garcia,47,fashion,playlist,shared,fashion,newsletter,64,68.0,Style trends video,13.5,8.0,10,3.3,13,70.3
+12,Daniel Baker,58,fashion,podcast,viewed,fashion,podcast,43,56.0,Outfit ideas blog,23.1,5.0,13,3.1,14,58.8
+13,Jackson Nelson,37,music,video,completed,music,newsletter,43,61.0,Indie music podcast,12.7,10.0,6,3.9,18,62.2
+14,Sophia Brown,60,technology,podcast,purchased,fitness,blog,48,65.0,Strength training guide,19.8,7.0,10,3.9,7,67.2
+15,Daniel Moore,60,cooking,video,purchased,cooking,video,92,98.0,Cooking tips blog,32.7,11.0,14,,20,100.0
+16,Samuel Smith,55,gaming,tutorial,viewed,gaming,tutorial,47,72.0,Esports highlights video,21.0,3.0,20,4.3,8,76.0
+17,David Martin,52,technology,blog,viewed,technology,blog,50,63.0,Python programming blog,10.3,0.0,10,3.6,10,65.4
+18,Amelia Johnson,24,movies,playlist,viewed,movies,playlist,83,80.0,Streaming recommendations newsletter,26.1,5.0,20,3.9,23,88.4
+19,Mia Smith,30,fitness,tutorial,purchased,technology,tutorial,78,80.0,Python programming blog,50.6,8.0,21,3.8,9,86.8
+20,Chloe Green,53,travel,blog,completed,travel,blog,73,81.0,Weekend travel blog,15.3,8.0,14,4.5,7,86.4
+21,Noah Garcia,42,technology,playlist,viewed,fitness,video,48,38.0,Home workout tutorial,13.3,2.0,10,2.5,17,48.0
+22,David Brown,30,fashion,video,shared,finance,video,63,70.0,Market update podcast,19.5,10.0,11,3.0,13,69.8
+23,Isabella Levy,50,music,playlist,viewed,technology,blog,17,31.0,AI tutorial video,11.2,5.0,12,2.7,7,37.3
+24,James Walker,56,finance,newsletter,viewed,finance,playlist,68,68.0,Personal finance newsletter,27.9,3.0,11,3.5,0,72.9
+25,Evelyn Moore,26,education,video,completed,education,video,70,85.0,Learning resources newsletter,25.8,9.0,15,5.0,6,90.2
+26,Ava Lewis,31,gaming,newsletter,purchased,technology,newsletter,92,78.0,Tech trends newsletter,13.8,4.0,13,3.3,15,84.4
+27,Owen Green,59,technology,video,viewed,technology,video,38,60.0,AI tutorial video,16.6,6.0,7,3.3,10,57.7
+28,Samuel Brown,35,education,video,viewed,music,podcast,71,37.0,New album video review,20.9,3.0,8,2.1,19,51.6
+29,Ethan Young,45,education,blog,viewed,education,blog,18,45.0,Learning resources newsletter,9.5,3.0,8,2.3,20,40.4
+30,Aiden Lewis,18,technology,video,shared,technology,podcast,65,76.0,AI tutorial video,32.1,5.0,13,3.8,8,77.9
+31,Daniel Thomas,20,technology,podcast,viewed,fashion,podcast,41,36.0,Fashion newsletter,26.2,2.0,9,3.4,12,49.1
+32,James Adams,28,music,playlist,purchased,music,tutorial,55,72.0,Indie music podcast,46.4,6.0,12,4.0,8,73.7
+33,Isabella Green,62,finance,newsletter,saved,education,playlist,85,59.0,Study skills tutorial,41.4,6.0,9,2.9,11,70.1
+34,Daniel Baker,32,fitness,video,completed,fitness,video,34,76.0,Healthy routine video,24.2,7.0,11,3.0,10,63.8
+35,Henry Cohen,25,technology,tutorial,viewed,technology,podcast,31,54.0,Tech trends newsletter,22.5,7.0,16,2.2,19,51.0
+36,Aiden Hall,50,music,tutorial,viewed,music,tutorial,60,69.0,Trending pop playlist,26.8,5.0,14,3.5,12,72.1
+37,Jackson Taylor,22,fitness,tutorial,liked,fitness,blog,72,64.0,Fitness progress newsletter,10.7,9.0,9,3.2,15,70.0
+38,Charlotte Moore,62,education,blog,viewed,education,newsletter,33,51.0,Learning resources newsletter,5.0,5.0,17,2.9,17,54.2
+39,Samuel Baker,18,travel,blog,shared,travel,blog,73,85.0,Budget travel newsletter,10.8,7.0,10,3.2,19,80.2
+40,Elijah Clark,48,fitness,tutorial,viewed,fitness,tutorial,85,81.0,Healthy routine video,26.0,8.0,15,4.2,11,89.0
+41,Harper Green,30,education,tutorial,viewed,education,tutorial,75,73.0,Online course video,25.9,3.0,16,4.5,9,84.2
+42,Hannah Martin,63,technology,tutorial,viewed,technology,blog,57,66.0,Cybersecurity podcast,10.9,4.0,16,4.5,22,75.7
+43,Harper Garcia,62,gaming,video,shared,gaming,video,63,83.0,New releases newsletter,20.2,8.0,8,3.3,12,76.0
+44,Samuel Hall,38,technology,tutorial,viewed,cooking,tutorial,52,55.0,Weekly recipes newsletter,23.4,8.0,10,2.8,17,58.4
+45,Evelyn Scott,33,education,blog,viewed,education,newsletter,83,70.0,Learning resources newsletter,8.9,8.0,19,3.3,17,80.5
+46,James Davis,39,movies,blog,viewed,movies,blog,95,80.0,Cinema podcast,10.7,5.0,17,4.3,15,92.8
+47,Zoe White,44,cooking,video,viewed,cooking,video,66,71.0,Quick recipe video,18.2,7.0,19,3.2,10,75.4
+48,Emily Wilson,42,music,podcast,viewed,technology,newsletter,82,38.0,Cybersecurity podcast,7.6,3.0,14,3.4,8,64.3
+49,Isabella Baker,47,travel,podcast,viewed,gaming,podcast,42,47.0,Esports highlights video,22.4,2.0,9,2.9,14,51.8
+50,Logan Levy,34,fashion,blog,viewed,technology,blog,63,57.0,Cybersecurity podcast,9.1,8.0,11,3.2,15,65.0
+51,Lily Cohen,65,fitness,tutorial,shared,fitness,podcast,69,63.0,Home workout tutorial,31.0,5.0,19,4.4,19,78.6
+52,Amelia Baker,19,fashion,blog,shared,fashion,video,48,60.0,Outfit ideas blog,22.9,6.0,16,3.4,18,64.8
+53,Lucas Scott,28,music,podcast,shared,music,tutorial,63,78.0,New album video review,29.5,6.0,15,4.3,21,81.5
+54,Amelia Miller,55,technology,tutorial,completed,technology,tutorial,49,83.0,Python programming blog,41.2,5.0,15,3.9,22,77.6
+55,Ava Clark,59,technology,newsletter,saved,fitness,tutorial,49,50.0,Fitness progress newsletter,33.1,9.0,9,2.2,18,51.8
+56,Mason Taylor,29,technology,video,viewed,technology,video,79,79.0,Tech trends newsletter,14.0,10.0,9,3.8,6,81.8
+57,Benjamin Nelson,46,education,podcast,shared,cooking,podcast,57,52.0,Meal prep tutorial,28.8,5.0,13,4.3,13,67.2
+58,Logan Harris,31,movies,podcast,liked,movies,podcast,100,89.0,Cinema podcast,32.3,7.0,14,4.9,17,100.0
+59,David Lewis,33,movies,video,liked,travel,video,67,63.0,Travel planning podcast,16.2,2.0,11,3.7,16,71.4
+60,Daniel King,55,education,video,viewed,music,video,75,54.0,New album video review,,6.0,11,2.6,9,64.2
+61,Lucas Wright,30,gaming,tutorial,viewed,gaming,podcast,45,49.0,Gaming news blog,15.4,5.0,12,3.5,16,57.8
+62,Carter Scott,51,technology,video,shared,gaming,video,66,62.0,Gaming news blog,20.1,7.0,10,2.7,12,65.2
+63,Noah Lewis,36,fashion,playlist,viewed,fashion,playlist,59,59.0,Outfit ideas blog,28.4,6.0,9,2.5,12,60.4
+64,Chloe Anderson,29,education,blog,viewed,education,blog,51,70.0,Study skills tutorial,11.3,6.0,16,3.5,19,70.7
+65,Mason Green,54,music,blog,liked,music,blog,35,60.0,New album video review,12.9,4.0,11,4.5,13,64.4
+66,Harper Scott,51,technology,tutorial,liked,technology,tutorial,47,79.0,Cybersecurity podcast,32.3,6.0,16,5.0,15,81.1
+67,Elijah Davis,60,gaming,tutorial,liked,finance,tutorial,36,45.0,Personal finance newsletter,27.2,11.0,10,2.6,16,48.0
+68,Lily Wilson,20,music,playlist,viewed,music,playlist,41,71.0,Indie music podcast,27.2,7.0,9,3.5,16,65.4
+69,Aiden Johnson,52,fitness,video,saved,music,playlist,41,42.0,Indie music podcast,44.7,5.0,12,1.8,9,45.0
+70,Hannah Hill,36,education,podcast,saved,music,podcast,41,66.0,Personalized workout playlist,31.5,8.0,13,3.7,16,65.7
+71,Charlotte Hall,34,technology,blog,liked,technology,newsletter,37,58.0,AI tutorial video,5.6,4.0,9,3.4,12,57.8
+72,Lily Clark,59,technology,playlist,liked,music,podcast,72,46.0,Personalized workout playlist,22.3,3.0,15,3.3,17,64.8
+73,Charlotte King,24,cooking,video,liked,cooking,video,77,80.0,Meal prep tutorial,16.8,8.0,9,4.7,8,86.2
+74,Charlotte Davis,38,fitness,newsletter,viewed,fitness,tutorial,72,54.0,Home workout tutorial,24.2,5.0,7,3.1,23,64.2
+75,David Young,46,fashion,blog,viewed,fashion,newsletter,84,75.0,Style trends video,9.2,4.0,11,4.3,19,84.9
+76,Leah Green,33,music,podcast,viewed,cooking,tutorial,70,54.0,Meal prep tutorial,24.8,11.0,11,2.8,13,63.7
+77,Mason Harris,63,fitness,video,saved,fitness,video,98,100.0,Fitness progress newsletter,22.9,5.0,13,5.0,11,100.0
+78,Amelia Hill,56,travel,blog,liked,cooking,blog,93,71.0,Meal prep tutorial,11.8,9.0,13,3.6,13,83.0
+79,Carter Walker,60,finance,newsletter,saved,movies,newsletter,61,63.0,Streaming recommendations newsletter,13.0,6.0,12,3.8,18,70.4
+80,Matthew Hill,38,finance,blog,shared,finance,blog,63,82.0,Investing basics blog,12.2,6.0,9,4.5,17,81.9
+81,Ella King,59,fashion,video,viewed,fashion,tutorial,60,60.0,Outfit ideas blog,24.4,5.0,6,3.4,18,64.4
+82,Mia Clark,47,gaming,video,saved,gaming,video,30,74.0,Game strategy tutorial,20.9,7.0,5,4.4,20,66.3
+83,Ethan Adams,39,movies,blog,viewed,movies,blog,79,77.0,Streaming recommendations newsletter,8.8,5.0,17,3.2,14,81.1
+84,Abigail Smith,65,fashion,newsletter,liked,finance,blog,58,43.0,Personal finance newsletter,8.8,3.0,11,2.1,17,51.6
+85,Noah Wilson,40,gaming,video,viewed,gaming,tutorial,60,58.0,Gaming news blog,19.3,5.0,17,3.2,14,66.9
+86,Owen Adams,42,gaming,,viewed,gaming,podcast,66,52.0,Esports highlights video,22.1,5.0,13,2.3,17,59.9
+87,Abigail King,52,gaming,tutorial,viewed,gaming,tutorial,40,66.0,Esports highlights video,21.9,8.0,16,3.4,14,65.1
+88,Matthew Adams,37,technology,podcast,viewed,education,podcast,24,37.0,Online course video,19.9,3.0,11,2.3,19,39.8
+89,Sebastian Davis,18,fashion,playlist,viewed,fashion,playlist,53,56.0,Style trends video,29.2,6.0,13,4.0,0,66.3
+90,Harper Young,30,cooking,blog,liked,travel,podcast,91,58.0,Budget travel newsletter,27.6,6.0,18,3.4,10,77.6
+91,Olivia Walker,41,education,blog,completed,education,video,51,74.0,Online course video,28.5,8.0,10,4.5,11,75.1
+92,Joseph Clark,35,technology,tutorial,saved,gaming,tutorial,48,60.0,Esports highlights video,34.7,10.0,14,3.6,21,65.0
+93,Sebastian Adams,53,music,video,saved,music,playlist,54,64.0,New album video review,41.9,6.0,12,3.3,15,66.3
+94,Carter Moore,58,technology,video,viewed,technology,video,63,68.0,Tech trends newsletter,15.2,9.0,10,3.8,12,72.5
+95,Matthew Hill,62,technology,tutorial,viewed,technology,newsletter,39,60.0,Tech trends newsletter,2.9,10.0,13,3.8,13,62.9
+96,Mia Smith,52,education,tutorial,purchased,education,tutorial,43,78.0,Online course video,43.6,12.0,12,4.8,14,76.8
+97,David Hall,44,fitness,tutorial,shared,fashion,tutorial,73,59.0,Fashion newsletter,29.0,4.0,16,3.3,20,71.4
+98,Zoe Nelson,59,technology,video,viewed,technology,playlist,79,65.0,Tech trends newsletter,25.3,3.0,15,2.7,22,72.4
+99,Henry Smith,26,technology,tutorial,viewed,cooking,tutorial,27,31.0,Meal prep tutorial,22.7,3.0,7,1.3,19,31.4
+100,Mason Green,56,technology,blog,saved,technology,blog,21,67.0,AI tutorial video,10.2,8.0,10,3.5,19,58.0
+101,Emily Green,33,fitness,playlist,viewed,fashion,playlist,59,41.0,Fashion newsletter,25.9,8.0,11,1.4,9,47.6
+102,Lily White,41,technology,tutorial,viewed,technology,tutorial,58,60.0,AI tutorial video,26.9,9.0,8,4.4,11,69.6
+103,Sebastian Taylor,61,gaming,video,viewed,gaming,newsletter,58,62.0,Game strategy tutorial,7.0,2.0,6,3.8,16,66.7
+104,Sophia Davis,57,gaming,newsletter,liked,gaming,newsletter,58,66.0,Gaming news blog,12.0,3.0,12,3.3,17,68.4
+105,Samuel Wright,31,fitness,tutorial,viewed,fitness,tutorial,64,80.0,Strength training guide,21.2,11.0,17,3.6,9,80.0
+106,Charlotte Taylor,38,gaming,video,viewed,gaming,video,52,59.0,Gaming news blog,14.3,5.0,8,3.9,18,64.8
+107,Sophia Lewis,21,fitness,video,viewed,music,video,31,42.0,New album video review,11.2,5.0,9,2.1,9,42.3
+108,Daniel Thomas,24,education,video,purchased,finance,blog,75,77.0,Investing basics blog,16.0,9.0,13,3.5,10,79.9
+109,Samuel Scott,57,music,podcast,viewed,movies,playlist,59,43.0,Movie review video,29.7,5.0,7,2.3,11,51.4
+110,Henry Thomas,18,education,blog,viewed,education,blog,76,73.0,Online course video,4.5,4.0,14,4.0,20,81.2
+111,Ella Taylor,47,finance,podcast,liked,finance,podcast,94,82.0,Market update podcast,28.8,11.0,15,4.6,18,94.1
+112,Mason Garcia,57,music,playlist,viewed,music,newsletter,68,51.0,Trending pop playlist,8.3,7.0,11,3.7,15,66.2
+113,Emily Taylor,25,education,tutorial,viewed,education,tutorial,57,60.0,Learning resources newsletter,21.2,2.0,16,4.0,19,70.5
+114,Noah Cohen,31,education,blog,viewed,education,blog,95,90.0,Learning resources newsletter,6.2,5.0,14,4.6,19,97.6
+115,Zoe Allen,32,cooking,blog,viewed,travel,blog,61,54.0,Budget travel newsletter,8.9,7.0,10,3.7,13,65.1
+116,Hannah Taylor,54,technology,newsletter,completed,technology,newsletter,49,81.0,Cybersecurity podcast,12.0,9.0,15,3.9,19,76.6
+117,Ethan Taylor,24,education,video,viewed,education,video,70,73.0,Online course video,16.3,14.0,18,2.9,9,75.6
+118,Ava Clark,58,gaming,tutorial,viewed,gaming,podcast,35,44.0,Game strategy tutorial,20.3,5.0,10,2.4,15,46.3
+119,Mason Scott,59,travel,blog,viewed,movies,podcast,70,53.0,Movie review video,25.5,4.0,14,2.7,7,64.0
+120,Owen Anderson,58,music,video,viewed,music,newsletter,72,70.0,New album video review,7.8,6.0,16,3.5,13,77.0
+121,Matthew White,20,music,playlist,viewed,music,playlist,84,76.0,Trending pop playlist,25.7,4.0,18,3.5,15,84.1
+122,Ella White,55,fitness,video,liked,fitness,blog,70,73.0,Home workout tutorial,12.0,2.0,12,3.7,7,77.1
+123,Henry Allen,23,gaming,podcast,viewed,gaming,podcast,66,64.0,Esports highlights video,21.9,5.0,8,3.9,14,71.3
+124,Abigail Moore,44,technology,blog,viewed,fashion,blog,67,55.0,Fashion newsletter,12.8,3.0,8,4.1,17,68.6
+125,Leah Adams,27,education,tutorial,viewed,education,tutorial,43,61.0,Learning resources newsletter,25.6,6.0,12,2.5,17,57.6
+126,Daniel Lewis,42,technology,blog,viewed,education,tutorial,54,30.0,Learning resources newsletter,22.6,5.0,12,1.5,5,42.0
+127,Logan Martin,39,finance,podcast,liked,fashion,podcast,58,56.0,Designer interview podcast,30.6,3.0,10,2.8,7,60.6
+128,Zoe Baker,65,music,tutorial,saved,music,tutorial,61,87.0,Trending pop playlist,32.8,9.0,11,4.9,12,86.4
+129,Isabella Wright,46,education,newsletter,viewed,education,newsletter,74,82.0,Study skills tutorial,7.2,3.0,11,4.2,19,84.5
+130,Harper Lewis,33,gaming,blog,viewed,gaming,blog,89,83.0,Gaming news blog,7.4,5.0,10,3.9,20,87.6
+131,Ella Clark,51,fashion,playlist,completed,gaming,playlist,84,75.0,New releases newsletter,50.1,8.0,14,4.4,11,86.6
+132,Samuel Hill,24,fashion,playlist,liked,fitness,blog,59,47.0,Home workout tutorial,6.0,7.0,8,3.4,18,59.0
+133,Emily Hill,19,fitness,newsletter,saved,fitness,video,98,87.0,Strength training guide,25.5,9.0,19,4.5,16,98.6
+134,Mia Baker,63,technology,video,viewed,technology,playlist,85,66.0,Tech trends newsletter,27.6,8.0,17,3.2,23,78.0
+135,Liam Davis,31,movies,video,shared,movies,podcast,34,50.0,Top films blog,25.1,5.0,17,3.1,7,55.0
+136,Lucas Levy,33,travel,podcast,viewed,travel,podcast,67,70.0,Travel planning podcast,18.5,5.0,14,3.7,16,75.7
+137,Mason Wilson,45,education,blog,liked,education,tutorial,85,69.0,Study skills tutorial,30.4,9.0,19,3.6,16,82.1
+138,Ava Clark,52,education,tutorial,viewed,EDUCATION,tutorial,64,71.0,Study skills tutorial,26.1,3.0,8,3.6,11,72.4
+139,Mia Scott,55,gaming,tutorial,shared,gaming,podcast,57,63.0,Gaming news blog,36.1,5.0,10,4.0,5,69.4
+140,Lily Young,29,technology,video,saved,technology,video,67,87.0,Python programming blog,32.3,4.0,12,4.6,5,87.0
+141,Nora Moore,52,technology,newsletter,viewed,technology,newsletter,63,69.0,Cybersecurity podcast,9.7,2.0,14,4.3,14,77.0
+142,Henry Davis,25,music,video,saved,music,video,67,93.0,New album video review,20.9,6.0,16,5.0,18,93.4
+143,Benjamin Green,23,gaming,tutorial,purchased,gaming,podcast,38,78.0,New releases newsletter,37.1,5.0,15,4.4,18,74.5
+144,Abigail Wilson,46,technology,blog,viewed,fashion,blog,62,52.0,Designer interview podcast,9.4,7.0,9,2.8,9,59.6
+145,Ava King,58,music,podcast,liked,music,playlist,35,46.0,Personalized workout playlist,32.4,5.0,17,3.4,20,55.0
+146,Olivia Brown,22,fitness,podcast,saved,fitness,video,73,78.0,Healthy routine video,21.9,7.0,15,4.4,12,85.0
+147,Chloe Scott,22,movies,blog,liked,movies,blog,40,69.0,Top films blog,9.4,6.0,12,5.0,22,72.8
+148,David Clark,42,travel,video,viewed,travel,video,17,48.0,Weekend travel blog,14.0,7.0,8,3.1,7,45.4
+149,Ava White,29,music,playlist,shared,music,podcast,75,67.0,Personalized workout playlist,33.5,4.0,11,4.1,19,77.6
+150,Zoe Wilson,37,fashion,playlist,shared,education,playlist,61,69.0,Online course video,41.4,5.0,18,3.9,21,76.0
+151,David Cohen,41,education,podcast,viewed,education,newsletter,97,67.0,Learning resources newsletter,7.9,7.0,11,3.6,19,81.6
+152,Joseph Taylor,44,gaming,playlist,viewed,gaming,blog,58,62.0,Game strategy tutorial,6.0,4.0,10,3.3,19,65.8
+153,Carter Garcia,26,technology,tutorial,liked,technology,tutorial,88,91.0,Cybersecurity podcast,25.5,10.0,8,4.8,12,94.6
+154,Harper Thomas,51,travel,tutorial,viewed,fashion,tutorial,89,62.0,Fashion newsletter,21.6,4.0,10,3.8,18,77.6
+155,Isabella Walker,55,finance,newsletter,viewed,finance,newsletter,53,72.0,Investing basics blog,8.4,3.0,10,4.5,16,74.8
+156,Ethan Levy,59,music,,viewed,movies,newsletter,85,39.0,Cinema podcast,12.3,2.0,10,2.7,13,60.6
+157,Lily Smith,61,education,newsletter,liked,education,newsletter,50,70.0,Science podcast,10.4,5.0,14,3.5,23,69.6
+158,Henry Hall,27,fitness,video,liked,fitness,video,50,67.0,Fitness progress newsletter,21.9,1.0,14,3.5,11,68.2
+159,Matthew Johnson,35,finance,blog,shared,education,podcast,52,45.0,Science podcast,27.8,11.0,13,2.1,13,51.6
+160,Isabella Baker,38,music,playlist,liked,music,playlist,61,72.0,New album video review,32.5,7.0,9,4.8,20,78.3
+161,Matthew Smith,31,music,playlist,viewed,cooking,playlist,100,72.0,Cooking tips blog,25.7,6.0,15,3.6,11,86.4
+162,Mia Taylor,26,technology,tutorial,viewed,technology,playlist,68,50.0,Tech trends newsletter,25.3,2.0,13,3.5,8,65.6
+163,Ella Clark,46,movies,newsletter,liked,movies,newsletter,70,70.0,Cinema podcast,16.4,7.0,17,4.0,11,79.3
+164,Henry Lewis,41,finance,podcast,viewed,finance,podcast,85,78.0,Investing basics blog,19.4,5.0,9,4.3,18,85.7
+165,Mason Hall,50,music,podcast,viewed,music,podcast,50,69.0,Indie music podcast,24.0,9.0,10,3.7,20,68.6
+166,Nora Lewis,49,fitness,tutorial,liked,fitness,podcast,81,77.0,Fitness progress newsletter,24.5,6.0,17,3.6,7,83.8
+167,Liam Hall,48,gaming,video,viewed,gaming,video,46,74.0,Gaming news blog,18.5,5.0,14,3.4,17,69.7
+168,Owen Scott,42,fashion,playlist,liked,gaming,newsletter,100,67.0,Esports highlights video,11.0,6.0,15,4.6,16,89.2
+169,Grace Clark,57,finance,newsletter,viewed,finance,video,57,52.0,Budget planning tutorial,14.1,5.0,7,3.1,17,58.8
+170,Lily Clark,42,finance,video,viewed,finance,video,72,73.0,Market update podcast,15.5,6.0,6,4.5,17,79.4
+171,Owen Harris,30,fashion,blog,liked,fashion,blog,82,80.0,Outfit ideas blog,9.8,8.0,9,5.0,22,89.2
+172,Charlotte Harris,40,fitness,video,shared,education,podcast,39,48.0,Learning resources newsletter,30.7,2.0,14,2.7,12,52.4
+173,Olivia Wilson,63,fitness,tutorial,saved,fitness,playlist,96,81.0,Home workout tutorial,42.7,8.0,11,4.5,11,92.2
+174,Benjamin Hill,53,fitness,tutorial,viewed,fitness,tutorial,51,72.0,Fitness progress newsletter,19.9,4.0,8,3.9,16,70.4
+175,Mia Taylor,39,technology,blog,liked,technology,blog,34,56.0,Cybersecurity podcast,6.8,4.0,13,2.6,13,53.6
+176,Lily Harris,59,technology,newsletter,completed,technology,newsletter,56,86.0,Python programming blog,14.3,10.0,17,4.3,14,83.8
+177,Logan Taylor,29,movies,video,shared,movies,video,53,67.0,Movie review video,26.1,6.0,13,4.0,6,71.2
+178,Daniel Walker,56,fashion,blog,completed,fashion,playlist,50,60.0,Style trends video,51.0,10.0,15,3.1,8,63.5
+179,Matthew Davis,30,cooking,video,liked,cooking,video,70,84.0,Quick recipe video,19.4,7.0,13,4.2,21,85.0
+180,Hannah King,30,fitness,newsletter,shared,fitness,blog,55,65.0,Healthy routine video,13.1,7.0,13,3.5,6,68.4
+181,Lily Anderson,33,education,blog,viewed,education,blog,54,60.0,,12.9,2.0,16,4.6,16,72.6
+182,Evelyn Young,41,music,playlist,shared,movies,playlist,67,54.0,Top films blog,40.9,2.0,11,2.2,18,59.8
+183,Lucas Young,36,technology,tutorial,liked,technology,tutorial,86,83.0,Tech trends newsletter,28.9,12.0,8,4.6,0,89.4
+184,Jackson Taylor,62,education,tutorial,shared,education,tutorial,42,81.0,Science podcast,37.4,5.0,11,4.1,10,74.0
+185,Ava Hill,54,movies,newsletter,completed,gaming,tutorial,80,65.0,Game strategy tutorial,42.5,3.0,11,3.2,12,73.6
+186,Joseph White,25,technology,video,viewed,technology,video,72,73.0,Python programming blog,20.3,4.0,9,3.8,15,77.0
+187,Matthew King,37,education,video,viewed,cooking,tutorial,39,40.0,Quick recipe video,22.5,6.0,11,3.0,12,49.1
+188,Zoe Levy,22,gaming,podcast,viewed,MUSIC,podcast,75,49.0,Personalized workout playlist,16.8,5.0,10,3.4,17,65.6
+189,Ella Miller,61,technology,video,completed,finance,video,19,55.0,Investing basics blog,21.4,4.0,11,3.3,10,51.4
+190,Emma Scott,19,education,tutorial,liked,education,tutorial,76,77.0,Learning resources newsletter,34.8,4.0,7,4.7,2,83.8
+191,Lucas Levy,60,gaming,blog,viewed,gaming,blog,50,61.0,New releases newsletter,14.2,4.0,8,4.1,0,66.2
+192,Chloe Hall,61,education,podcast,viewed,gaming,podcast,64,44.0,Game strategy tutorial,19.7,6.0,10,3.2,12,59.0
+193,Harper Baker,64,music,playlist,shared,music,playlist,63,79.0,New album video review,40.3,9.0,14,3.9,12,79.6
+194,Harper Taylor,37,travel,podcast,viewed,gaming,podcast,51,54.0,Gaming news blog,25.1,3.0,10,3.4,21,60.6
+195,Ella Green,51,technology,podcast,viewed,gaming,podcast,8,43.0,Gaming news blog,16.8,6.0,4,3.0,5,38.4
+196,Harper Wilson,63,education,video,liked,education,video,63,73.0,Online course video,16.6,1.0,12,3.5,15,74.0
+197,Ethan Hill,46,movies,playlist,liked,movies,newsletter,50,60.0,Cinema podcast,11.4,4.0,11,2.5,16,58.9
+198,Olivia Adams,22,technology,blog,liked,technology,blog,71,87.0,Python programming blog,11.0,4.0,14,3.4,18,83.0
+199,Elijah Hill,30,movies,podcast,viewed,movies,podcast,76,64.0,Movie review video,21.2,4.0,8,3.6,17,72.8
+200,Abigail Moore,47,movies,newsletter,viewed,gaming,newsletter,52,49.0,Gaming news blog,7.0,8.0,15,3.1,0,59.2
+201,Jackson Anderson,44,fitness,tutorial,purchased,cooking,tutorial,24,57.0,Quick recipe video,47.9,8.0,13,2.6,17,51.1
+202,Grace Wilson,27,travel,blog,completed,travel,blog,69,96.0,City guide video,20.4,5.0,15,5.0,12,94.9
+203,David White,28,fitness,tutorial,completed,cooking,tutorial,44,67.0,Cooking tips blog,41.6,10.0,10,3.8,19,66.4
+204,Joseph Levy,22,music,video,purchased,music,newsletter,90,81.0,Trending pop playlist,17.0,11.0,10,5.0,9,92.4
+205,Owen Young,60,movies,blog,viewed,gaming,blog,66,45.0,New releases newsletter,2.1,9.0,9,3.0,18,58.6
+206,Zoe Wilson,19,education,tutorial,viewed,education,tutorial,83,75.0,Science podcast,23.6,5.0,15,3.4,17,81.6
+207,Benjamin Green,43,movies,playlist,viewed,movies,playlist,70,73.0,Movie review video,26.1,9.0,21,4.2,17,83.2
+208,Olivia Miller,43,fitness,tutorial,viewed,fitness,video,84,58.0,Strength training guide,11.2,3.0,16,3.7,9,76.2
+209,Mia Nelson,51,fitness,tutorial,liked,fitness,blog,29,61.0,Home workout tutorial,8.2,5.0,10,3.1,17,55.6
+210,Benjamin Nelson,52,music,newsletter,viewed,music,newsletter,76,66.0,Trending pop playlist,7.3,8.0,18,2.8,18,73.7
+211,Daniel Garcia,54,music,blog,viewed,music,blog,77,66.0,Indie music podcast,12.0,5.0,15,3.7,14,77.3
+212,Ethan Clark,65,travel,tutorial,viewed,travel,tutorial,28,51.0,Budget travel newsletter,18.6,6.0,9,2.5,12,47.4
+213,Liam Young,35,technology,video,liked,movies,video,18,43.0,Streaming recommendations newsletter,17.8,6.0,15,3.3,9,47.2
+214,Ethan Scott,57,gaming,video,liked,finance,video,32,50.0,Market update podcast,16.6,2.0,10,2.8,11,50.1
+215,Jackson Johnson,23,movies,podcast,shared,movies,podcast,40,72.0,Movie review video,29.6,5.0,7,4.8,18,71.2
+216,Samuel Lewis,50,cooking,tutorial,viewed,music,tutorial,37,47.0,Personalized workout playlist,25.4,9.0,17,1.7,13,47.6
+217,Ella Scott,23,technology,tutorial,saved,technology,tutorial,64,85.0,Python programming blog,37.9,7.0,9,4.5,18,83.6
+218,Mason Miller,28,travel,blog,viewed,travel,blog,59,73.0,Travel planning podcast,13.7,6.0,14,4.7,18,79.6
+219,Matthew Johnson,26,fitness,video,viewed,movies,video,43,42.0,Cinema podcast,13.6,4.0,16,2.2,17,49.2
+220,Leah Brown,37,technology,video,viewed,finance,playlist,43,38.0,Market update podcast,24.8,5.0,12,2.4,17,46.8
+221,David Walker,33,education,blog,viewed,education,blog,48,74.0,Learning resources newsletter,9.0,3.0,11,3.7,17,70.6
+222,Zoe Garcia,61,fitness,podcast,liked,fitness,podcast,91,93.0,Home workout tutorial,28.8,6.0,13,4.3,15,95.9
+223,David Brown,58,fashion,blog,viewed,fashion,blog,49,68.0,Fashion newsletter,9.9,6.0,11,3.9,9,69.2
+224,Lily Walker,43,music,video,viewed,music,blog,27,55.0,Personalized workout playlist,5.5,5.0,10,2.5,19,49.4
+225,Emily Garcia,59,travel,podcast,liked,travel,newsletter,70,64.0,Weekend travel blog,10.0,3.0,9,3.5,22,70.9
+226,Mia Cohen,24,travel,newsletter,purchased,travel,podcast,57,81.0,Budget travel newsletter,44.3,8.0,16,4.5,14,82.4
+227,Nora Brown,40,music,video,viewed,music,podcast,35,57.0,Trending pop playlist,28.4,6.0,9,3.2,21,55.8
+228,Emily Wilson,39,gaming,video,completed,music,video,83,70.0,Personalized workout playlist,31.9,4.0,16,3.2,23,78.8
+229,Lucas Cohen,39,movies,blog,shared,movies,blog,54,67.0,Movie review video,9.8,9.0,19,4.2,14,74.9
+230,Samuel Taylor,47,education,tutorial,liked,gaming,tutorial,64,59.0,Esports highlights video,28.1,10.0,10,3.8,18,68.8
+231,Carter Taylor,42,movies,podcast,viewed,movies,podcast,58,72.0,Movie review video,17.2,3.0,13,3.3,17,71.5
+232,Logan Thomas,38,education,tutorial,saved,music,tutorial,20,57.0,Indie music podcast,33.1,8.0,12,2.6,10,49.4
+233,Emily Adams,47,gaming,video,liked,fashion,playlist,41,41.0,Outfit ideas blog,35.5,13.0,6,2.1,5,43.6
+234,Charlotte Johnson,33,finance,podcast,viewed,finance,podcast,44,57.0,Market update podcast,24.5,5.0,13,3.6,14,62.0
+235,Zoe Allen,59,technology,video,liked,technology,video,43,74.0,Python programming blog,17.1,7.0,13,4.1,19,71.9
+236,Emily Cohen,49,travel,video,viewed,travel,video,52,57.0,City guide video,12.9,7.0,9,3.7,12,63.4
+237,David Garcia,23,music,playlist,viewed,music,playlist,30,62.0,Trending pop playlist,21.7,8.0,10,3.3,19,57.4
+238,Hannah Wright,49,movies,video,viewed,movies,video,63,74.0,Movie review video,15.2,10.0,18,3.5,17,76.9
+239,Elijah Taylor,24,travel,blog,saved,travel,newsletter,92,88.0,City guide video,9.2,8.0,13,5.0,18,97.4
+240,Lucas Scott,33,fitness,playlist,saved,fitness,playlist,70,88.0,Healthy routine video,42.8,7.0,14,4.2,11,87.2
+241,Noah Walker,40,finance,podcast,viewed,finance,tutorial,70,57.0,Market update podcast,20.2,5.0,7,3.4,14,66.4
+242,Mia Brown,44,travel,blog,viewed,education,blog,72,62.0,Study skills tutorial,8.8,7.0,15,2.6,9,68.5
+243,David Brown,54,fashion,playlist,viewed,fashion,video,55,58.0,Fashion newsletter,9.6,3.0,14,3.0,10,63.2
+244,Jackson White,49,education,video,viewed,education,blog,75,61.0,Learning resources newsletter,4.6,5.0,13,4.0,7,75.2
+245,Sebastian Martin,45,travel,tutorial,liked,music,playlist,49,50.0,Indie music podcast,41.4,5.0,13,2.6,8,55.4
+246,Henry Nelson,61,gaming,video,viewed,gaming,video,25,61.0,Game strategy tutorial,11.2,5.0,6,3.9,9,56.8
+247,Amelia Allen,26,technology,blog,saved,music,blog,61,67.0,New album video review,9.7,4.0,8,2.4,16,63.6
+248,Isabella Levy,43,music,newsletter,viewed,music,newsletter,62,70.0,New album video review,14.0,9.0,10,3.5,14,71.6
+249,Harper Clark,61,movies,newsletter,viewed,movies,newsletter,63,78.0,Streaming recommendations newsletter,17.6,8.0,15,4.0,11,80.0
+250,Ethan Wright,24,technology,blog,viewed,finance,tutorial,69,46.0,Personal finance newsletter,18.8,4.0,13,3.8,20,65.6
+251,Emma Hall,59,fitness,blog,liked,fitness,podcast,58,71.0,Healthy routine video,25.8,3.0,13,3.2,15,70.6
+252,Elijah Miller,24,gaming,blog,viewed,gaming,blog,55,71.0,Esports highlights video,10.6,9.0,15,4.2,21,75.4
+253,Samuel Hall,56,movies,podcast,saved,movies,playlist,62,67.0,Cinema podcast,48.5,10.0,15,4.3,17,76.2
+254,Sebastian Wilson,59,movies,podcast,liked,travel,podcast,90,64.0,Weekend travel blog,23.6,5.0,13,3.2,1,77.0
+255,Jackson Hill,38,movies,newsletter,viewed,movies,newsletter,57,57.0,Top films blog,7.1,3.0,9,3.1,21,61.8
+256,Ava Cohen,55,fitness,podcast,viewed,fitness,podcast,56,72.0,Home workout tutorial,23.9,1.0,10,4.0,20,73.2
+257,Ethan Young,52,technology,tutorial,liked,finance,tutorial,41,53.0,Investing basics blog,30.0,7.0,15,2.3,17,53.6
+258,Charlotte Moore,55,fitness,video,saved,fitness,video,61,88.0,Home workout tutorial,22.5,12.0,12,4.3,15,84.2
+259,Noah Wilson,60,fitness,tutorial,viewed,travel,tutorial,41,54.0,City guide video,22.3,3.0,16,3.9,14,62.5
+260,Joseph Green,64,technology,blog,completed,technology,blog,70,94.0,Tech trends newsletter,12.0,7.0,15,5.0,14,94.3
+261,Joseph Miller,34,music,playlist,saved,education,blog,97,63.0,Study skills tutorial,12.0,10.0,15,3.4,19,80.4
+262,Mia Nelson,54,gaming,tutorial,viewed,gaming,video,68,58.0,Game strategy tutorial,14.1,4.0,19,3.4,15,71.1
+263,Olivia Lewis,63,music,podcast,viewed,music,video,32,43.0,Personalized workout playlist,14.8,5.0,12,3.0,9,48.8
+264,Lucas Clark,61,music,playlist,viewed,movies,playlist,95,65.0,Movie review video,26.6,3.0,12,4.0,6,82.6
+265,Ethan Lewis,47,music,video,viewed,finance,video,54,49.0,Personal finance newsletter,15.9,3.0,11,2.7,8,56.2
+266,Amelia Wright,52,fitness,video,liked,travel,video,99,76.0,City guide video,22.4,1.0,16,4.9,10,94.8
+267,Emma Scott,60,music,newsletter,liked,music,newsletter,61,75.0,Personalized workout playlist,10.7,4.0,8,4.7,12,78.8
+268,Noah Brown,63,finance,podcast,viewed,finance,podcast,59,73.0,Market update podcast,22.7,3.0,12,4.3,20,76.8
+269,Mia Clark,26,technology,podcast,completed,fashion,podcast,29,65.0,Designer interview podcast,37.6,6.0,12,3.1,10,58.2
+270,Sebastian Allen,65,technology,video,viewed,technology,podcast,70,61.0,Tech trends newsletter,21.1,6.0,16,2.9,12,69.4
+271,Chloe White,38,fitness,video,saved,fitness,video,51,72.0,Strength training guide,20.6,8.0,6,3.7,10,68.6
+272,Ethan Garcia,61,technology,video,viewed,cooking,video,56,43.0,Cooking tips blog,15.1,4.0,12,2.8,15,55.0
+273,Nora Levy,61,finance,podcast,viewed,finance,playlist,49,56.0,Market update podcast,27.5,4.0,10,2.3,17,55.4
+274,James Johnson,47,music,tutorial,viewed,music,tutorial,10,58.0,Trending pop playlist,29.2,3.0,12,3.6,15,51.9
+275,Ethan Walker,55,movies,video,viewed,movies,podcast,70,71.0,Cinema podcast,26.3,9.0,14,4.5,22,81.0
+276,Henry Johnson,20,cooking,video,saved,gaming,tutorial,44,39.0,New releases newsletter,35.1,3.0,7,2.9,23,48.0
+277,Logan Davis,35,technology,podcast,viewed,technology,tutorial,56,52.0,Cybersecurity podcast,20.3,5.0,8,2.7,19,56.9
+278,Samuel Harris,21,finance,newsletter,viewed,finance,newsletter,50,68.0,Personal finance newsletter,5.1,8.0,8,3.3,19,65.3
+279,Ella Green,63,fitness,video,viewed,fitness,newsletter,87,57.0,Fitness progress newsletter,11.4,2.0,13,3.4,12,74.0
+280,Logan Cohen,38,gaming,podcast,viewed,gaming,podcast,61,67.0,Esports highlights video,22.1,6.0,7,3.6,16,69.2
+281,Mia Smith,60,technology,newsletter,liked,technology,playlist,70,62.0,Python programming blog,37.0,5.0,12,3.7,12,72.2
+282,Emily Hill,29,music,video,liked,technology,podcast,1,28.0,Python programming blog,19.6,7.0,8,2.5,19,28.6
+283,Hannah Martin,49,music,playlist,shared,movies,blog,46,40.0,Cinema podcast,13.8,5.0,15,3.2,9,53.8
+284,Emma Anderson,57,music,playlist,viewed,music,playlist,82,81.0,Indie music podcast,30.4,3.0,17,3.6,10,85.8
+285,Lucas Adams,51,movies,video,viewed,movies,playlist,80,59.0,Cinema podcast,24.6,8.0,11,3.5,3,72.4
+286,Sophia Garcia,64,fashion,blog,viewed,movies,blog,87,61.0,Streaming recommendations newsletter,7.6,6.0,13,3.2,17,74.8
+287,Harper King,55,movies,tutorial,purchased,movies,tutorial,46,87.0,Top films blog,49.1,8.0,13,4.4,18,80.1
+288,Sebastian Adams,54,fitness,newsletter,viewed,fitness,newsletter,18,62.0,Home workout tutorial,8.3,5.0,10,4.0,0,57.3
+289,James Thomas,38,music,playlist,viewed,travel,playlist,44,38.0,City guide video,26.0,5.0,8,3.1,15,49.0
+290,Ava Thomas,34,education,podcast,viewed,movies,podcast,62,49.0,Movie review video,20.1,5.0,9,3.7,12,62.8
+291,Zoe Moore,24,movies,video,viewed,movies,video,26,58.0,Streaming recommendations newsletter,14.1,5.0,8,3.6,19,55.1
+292,Abigail Cohen,38,movies,podcast,viewed,gaming,podcast,83,51.0,Gaming news blog,21.0,8.0,12,3.0,4,67.6
+293,Henry Hall,57,fashion,video,shared,fashion,video,21,57.0,Designer interview podcast,25.3,8.0,6,3.1,5,49.8
+294,Mia Anderson,31,education,video,viewed,education,video,49,56.0,Online course video,7.1,4.0,8,2.3,17,54.6
+295,Samuel Baker,49,gaming,tutorial,viewed,fashion,tutorial,62,60.0,Outfit ideas blog,22.3,6.0,11,4.1,16,70.5
+296,Liam Martin,28,technology,tutorial,liked,technology,newsletter,68,59.0,Tech trends newsletter,10.0,5.0,10,3.2,19,67.0
+297,Ella Garcia,41,Fashion,blog,liked,fashion,tutorial,57,69.0,Designer interview podcast,30.3,7.0,18,4.0,16,75.4
+298,Hannah Levy,27,fitness,tutorial,viewed,fitness,tutorial,54,64.0,Home workout tutorial,22.1,11.0,13,3.9,21,69.7
+299,Grace Lewis,61,technology,video,viewed,technology,newsletter,80,71.0,Cybersecurity podcast,3.3,2.0,14,3.2,11,77.6
+300,Nora Walker,51,travel,blog,saved,travel,blog,69,75.0,City guide video,14.3,8.0,17,3.5,13,78.8
+301,Amelia Baker,58,technology,blog,saved,technology,podcast,76,78.0,Python programming blog,37.9,8.0,9,5.0,22,86.5
+302,Charlotte Adams,35,finance,newsletter,liked,music,newsletter,76,70.0,Personalized workout playlist,5.4,5.0,14,4.0,7,79.9
+303,Carter Walker,24,cooking,video,saved,cooking,video,70,92.0,Quick recipe video,26.4,6.0,15,4.4,19,90.4
+304,Evelyn Moore,59,travel,blog,viewed,travel,blog,69,75.0,Travel planning podcast,8.8,5.0,14,3.9,0,79.6
+305,Henry Allen,33,travel,video,liked,travel,video,53,74.0,Weekend travel blog,19.1,7.0,13,4.6,14,77.4
+306,Benjamin Baker,49,movies,playlist,saved,technology,playlist,43,57.0,AI tutorial video,39.7,7.0,15,3.8,8,63.6
+307,Chloe Martin,44,fashion,video,viewed,fashion,playlist,37,45.0,Designer interview podcast,26.2,0.0,8,2.0,16,44.6
+308,Sebastian Brown,51,movies,playlist,viewed,fashion,blog,76,52.0,Style trends video,12.5,3.0,14,4.0,19,71.8
+309,Benjamin Thomas,47,music,blog,viewed,music,blog,79,71.0,Personalized workout playlist,11.3,2.0,10,4.4,3,81.6
+310,Lily Walker,53,education,tutorial,liked,education,tutorial,67,72.0,Learning resources newsletter,34.8,8.0,12,3.8,8,76.3
+311,Elijah Adams,32,fitness,podcast,viewed,fitness,blog,52,63.0,Healthy routine video,12.7,7.0,10,2.9,12,62.4
+312,Lily Hill,26,education,tutorial,saved,education,tutorial,69,74.0,Online course video,37.0,3.0,7,4.5,10,79.3
+313,Emily White,34,education,tutorial,shared,education,podcast,57,68.0,Online course video,35.6,5.0,12,4.0,13,72.5
+314,Samuel Young,56,gaming,blog,viewed,finance,blog,46,48.0,Market update podcast,9.7,3.0,9,2.1,22,49.5
+315,Daniel Martin,27,fitness,video,saved,fitness,playlist,59,79.0,Healthy routine video,46.4,3.0,11,4.0,7,77.6
+316,David Wilson,34,cooking,newsletter,shared,movies,newsletter,93,63.0,Streaming recommendations newsletter,9.8,5.0,3,5.0,13,82.4
+317,Lily Hill,60,gaming,blog,viewed,gaming,podcast,55,66.0,Gaming news blog,21.5,7.0,10,3.6,14,68.2
+318,Evelyn Wright,53,travel,tutorial,viewed,fashion,tutorial,32,36.0,Outfit ideas blog,19.7,1.0,6,2.0,11,38.2
+319,Jackson Davis,55,cooking,newsletter,viewed,cooking,newsletter,76,74.0,Cooking tips blog,11.7,5.0,14,3.4,11,78.7
+320,Ava Harris,30,gaming,video,liked,gaming,video,46,79.0,Game strategy tutorial,16.0,3.0,5,5.0,18,76.4
+321,Hannah Nelson,47,finance,blog,saved,finance,blog,70,87.0,Investing basics blog,16.3,8.0,13,4.9,17,89.9
+322,Noah Cohen,46,fitness,newsletter,purchased,cooking,newsletter,72,78.0,Cooking tips blog,14.3,6.0,15,4.9,19,87.2
+323,Aiden Moore,45,music,video,saved,music,video,63,85.0,Personalized workout playlist,27.0,8.0,11,4.5,13,84.1
+324,Joseph Martin,19,fitness,video,viewed,fitness,video,51,65.0,Home workout tutorial,17.5,8.0,10,4.3,16,70.0
+325,Ava Baker,20,education,tutorial,viewed,education,tutorial,42,57.0,Learning resources newsletter,28.3,3.0,11,2.8,20,56.6
+326,Henry Nelson,49,cooking,tutorial,viewed,cooking,tutorial,79,69.0,Cooking tips blog,25.6,3.0,12,3.8,20,78.6
+327,Carter Clark,28,movies,video,viewed,finance,video,75,47.0,Personal finance newsletter,9.6,4.0,8,3.0,21,61.9
+328,Noah Hall,21,fitness,newsletter,saved,fitness,podcast,60,79.0,Home workout tutorial,32.5,11.0,11,4.9,11,82.5
+329,Elijah Allen,61,education,tutorial,viewed,education,tutorial,40,56.0,,19.3,3.0,12,3.4,23,59.0
+330,Grace Baker,24,fitness,newsletter,liked,fitness,newsletter,55,67.0,Home workout tutorial,8.3,4.0,13,3.3,19,68.4
+331,Grace Wilson,28,fitness,podcast,saved,fitness,podcast,88,91.0,Home workout tutorial,37.9,7.0,16,4.7,19,97.2
+332,Ethan Hill,25,travel,tutorial,viewed,travel,tutorial,15,43.0,Travel planning podcast,24.1,4.0,9,1.8,17,36.4
+333,Evelyn White,21,music,playlist,completed,music,blog,48,68.0,Trending pop playlist,12.7,6.0,12,2.4,23,61.8
+334,Mia Adams,20,finance,tutorial,viewed,education,podcast,44,28.0,Study skills tutorial,16.4,1.0,8,2.6,14,42.0
+335,Jackson Baker,39,finance,podcast,viewed,finance,podcast,32,51.0,Investing basics blog,20.6,5.0,12,2.8,18,51.4
+336,Isabella Johnson,26,technology,video,saved,technology,tutorial,33,70.0,AI tutorial video,31.9,3.0,9,3.7,18,63.5
+337,Emily Hall,19,fashion,playlist,saved,fashion,tutorial,56,70.0,Outfit ideas blog,33.5,3.0,11,4.3,18,74.2
+338,Emma Allen,61,gaming,tutorial,viewed,cooking,tutorial,50,48.0,Meal prep tutorial,23.3,8.0,11,3.7,18,59.5
+339,Lily Thomas,60,fashion,newsletter,shared,fashion,newsletter,86,85.0,Designer interview podcast,15.2,3.0,15,4.7,9,93.6
+340,Lily Adams,49,music,video,completed,technology,video,78,80.0,Python programming blog,28.6,7.0,14,5.0,12,90.0
+341,Ethan White,46,technology,video,liked,technology,blog,43,55.0,Cybersecurity podcast,3.7,6.0,10,3.5,13,59.2
+342,Olivia Lewis,53,technology,video,viewed,technology,blog,55,59.0,AI tutorial video,9.9,1.0,16,3.5,18,67.0
+343,Noah Baker,32,finance,video,viewed,travel,newsletter,38,34.0,Travel planning podcast,6.9,5.0,14,2.5,18,44.8
+344,Mia Scott,60,fitness,newsletter,shared,fitness,podcast,18,46.0,Healthy routine video,30.5,6.0,11,2.1,19,41.0
+345,David Brown,63,technology,video,liked,technology,newsletter,60,59.0,Cybersecurity podcast,14.3,5.0,12,3.9,19,68.8
+346,Henry Johnson,44,technology,blog,viewed,technology,tutorial,56,52.0,AI tutorial video,16.4,4.0,10,1.7,16,52.7
+347,Emma Clark,65,cooking,newsletter,viewed,cooking,playlist,41,56.0,Quick recipe video,26.0,9.0,9,2.9,8,55.6
+348,Sophia Johnson,42,travel,video,shared,travel,podcast,49,59.0,Budget travel newsletter,31.7,6.0,8,3.4,17,61.4
+349,Sophia Taylor,56,travel,video,purchased,gaming,video,83,76.0,Gaming news blog,25.5,6.0,13,3.6,20,82.3
+350,Elijah Hall,63,finance,blog,liked,finance,newsletter,57,58.0,Market update podcast,13.8,8.0,9,3.1,17,62.3
+351,Emily Lewis,48,education,podcast,liked,education,video,55,55.0,Science podcast,19.5,3.0,16,4.2,20,68.6
+352,Mia Cohen,42,education,newsletter,saved,education,playlist,45,70.0,Online course video,46.0,5.0,11,4.4,23,71.4
+353,Elijah Scott,52,technology,tutorial,shared,technology,podcast,66,69.0,AI tutorial video,28.7,6.0,16,3.4,12,74.2
+354,Samuel Moore,33,fitness,tutorial,liked,fitness,tutorial,67,74.0,Fitness progress newsletter,32.1,9.0,20,3.7,18,79.9
+355,Emma Wright,34,education,tutorial,saved,education,tutorial,41,65.0,Online course video,38.5,2.0,19,2.9,15,63.6
+356,Leah Martin,64,education,newsletter,shared,gaming,podcast,14,41.0,Esports highlights video,29.7,2.0,11,3.0,14,42.0
+357,Benjamin Lewis,34,fitness,video,viewed,fitness,video,42,65.0,Healthy routine video,16.0,9.0,12,3.5,10,64.2
+358,Mason Hill,38,music,blog,completed,music,blog,60,76.0,Trending pop playlist,16.0,5.0,6,3.0,10,69.6
+359,Joseph Smith,29,movies,podcast,liked,travel,podcast,40,51.0,Weekend travel blog,23.4,3.0,13,3.1,9,55.6
+360,Henry Anderson,41,movies,video,viewed,movies,video,89,75.0,Cinema podcast,15.3,8.0,14,4.2,17,87.0
+361,Owen Hill,57,music,video,viewed,music,blog,53,65.0,Indie music podcast,8.8,11.0,7,4.1,8,68.4
+362,Abigail Cohen,51,fashion,newsletter,viewed,fashion,blog,74,69.0,Fashion newsletter,10.6,7.0,13,3.7,13,77.0
+363,Isabella Scott,52,travel,video,liked,travel,video,58,67.0,Weekend travel blog,21.9,9.0,13,3.5,15,70.2
+364,Elijah Lewis,62,education,tutorial,shared,education,tutorial,69,75.0,Science podcast,30.6,0.0,13,5.0,14,84.6
+365,Evelyn Lewis,22,education,podcast,shared,fitness,podcast,69,60.0,Healthy routine video,29.6,14.0,7,3.4,20,67.5
+366,Lucas Lewis,18,cooking,tutorial,viewed,cooking,tutorial,63,72.0,Quick recipe video,28.0,,13,4.3,14,78.0
+367,Leah Miller,36,movies,podcast,completed,movies,podcast,89,94.0,Streaming recommendations newsletter,36.7,4.0,22,4.5,7,100.0
+368,Zoe Wilson,58,fitness,podcast,viewed,fitness,podcast,83,79.0,Healthy routine video,19.5,2.0,9,4.5,23,86.6
+369,Hannah Hall,43,fitness,blog,liked,movies,video,52,34.0,Movie review video,17.9,5.0,9,1.6,19,42.5
+370,Mason Garcia,29,fitness,newsletter,completed,movies,newsletter,58,73.0,Top films blog,15.7,8.0,17,3.7,17,75.6
+371,Matthew Young,53,education,tutorial,liked,education,tutorial,93,93.0,Study skills tutorial,30.7,13.0,16,4.1,18,96.6
+372,Sophia King,59,fitness,video,completed,fitness,tutorial,73,79.0,Healthy routine video,45.9,9.0,10,3.8,8,80.4
+373,Hannah Walker,41,technology,blog,viewed,movies,blog,45,40.0,Cinema podcast,10.6,5.0,12,3.3,18,52.8
+374,Sophia King,64,fashion,video,viewed,fashion,tutorial,36,50.0,Fashion newsletter,25.0,7.0,11,2.7,9,51.2
+375,Sophia Nelson,52,finance,blog,liked,finance,blog,74,77.0,Investing basics blog,13.3,7.0,19,4.5,14,86.9
+376,Liam Baker,55,music,blog,viewed,music,blog,86,84.0,Personalized workout playlist,17.2,8.0,8,5.0,9,91.8
+377,Jackson Moore,32,movies,video,completed,movies,video,33,69.0,Cinema podcast,25.6,2.0,13,3.7,18,64.6
+378,Owen King,28,technology,video,viewed,technology,video,54,63.0,Python programming blog,9.1,4.0,9,4.1,10,68.6
+379,Ava Davis,41,gaming,video,completed,fitness,tutorial,94,,Healthy routine video,46.1,9.0,7,3.9,10,80.2
+380,Olivia Young,38,technology,tutorial,completed,movies,tutorial,70,62.0,Movie review video,39.7,8.0,9,3.5,7,70.0
+381,Ava Clark,34,education,video,liked,travel,video,48,61.0,Travel planning podcast,19.0,6.0,8,3.9,18,64.6
+382,Leah Cohen,50,fashion,video,liked,fashion,playlist,75,74.0,Outfit ideas blog,40.1,5.0,17,5.0,11,87.6
+383,Harper Taylor,39,gaming,video,viewed,gaming,video,76,67.0,Game strategy tutorial,10.5,4.0,9,3.3,15,73.0
+384,James Levy,26,gaming,tutorial,saved,gaming,tutorial,84,79.0,Esports highlights video,32.2,5.0,16,3.6,12,85.2
+385,Hannah Young,19,technology,video,viewed,gaming,video,83,69.0,Gaming news blog,10.6,4.0,9,3.2,19,75.6
+386,Grace Hall,27,cooking,video,liked,cooking,video,100,86.0,Meal prep tutorial,17.5,7.0,13,5.0,10,98.9
+387,Mia Cohen,30,education,video,liked,education,tutorial,79,64.0,Science podcast,30.5,8.0,11,4.2,21,77.9
+388,Nora Scott,25,finance,podcast,viewed,finance,newsletter,70,68.0,Personal finance newsletter,10.0,4.0,9,3.4,12,72.2
+389,Aiden Smith,48,gaming,video,liked,gaming,tutorial,57,68.0,,30.2,4.0,9,2.5,7,63.8
+390,Ethan Wilson,56,fitness,podcast,viewed,music,podcast,66,51.0,Personalized workout playlist,16.3,4.0,13,2.7,10,61.4
+391,Grace Thomas,24,music,playlist,viewed,technology,playlist,91,62.0,Python programming blog,21.2,5.0,14,3.8,6,79.8
+392,Benjamin King,43,gaming,tutorial,liked,gaming,tutorial,63,85.0,Esports highlights video,30.4,5.0,11,4.4,14,83.6
+393,Sebastian Wright,26,gaming,podcast,liked,gaming,podcast,61,76.0,Game strategy tutorial,25.8,4.0,12,4.1,10,77.8
+394,Henry Green,53,movies,blog,viewed,movies,blog,79,77.0,Movie review video,11.2,18.0,21,3.8,20,85.8
+395,Evelyn Smith,41,music,tutorial,viewed,music,tutorial,81,68.0,Trending pop playlist,25.5,11.0,10,4.3,15,80.4
+396,Noah Scott,29,education,blog,liked,finance,blog,52,64.0,Budget planning tutorial,11.4,4.0,9,3.7,10,66.5
+397,Owen Garcia,61,gaming,video,viewed,gaming,playlist,67,57.0,Game strategy tutorial,30.1,5.0,19,3.6,14,71.4
+398,Sebastian Walker,30,fitness,newsletter,viewed,music,playlist,38,35.0,Trending pop playlist,27.4,5.0,5,2.5,9,41.6
+399,Harper Hall,30,movies,video,saved,movies,video,77,84.0,Streaming recommendations newsletter,25.0,6.0,15,4.6,9,89.9
+400,Nora Wilson,39,cooking,tutorial,viewed,cooking,tutorial,52,58.0,Quick recipe video,20.8,5.0,14,3.6,11,65.3
+401,Matthew Nelson,55,movies,tutorial,liked,travel,playlist,66,53.0,Weekend travel blog,34.6,10.0,7,2.6,7,59.4
+402,Charlotte Taylor,40,gaming,video,liked,gaming,podcast,28,49.0,Game strategy tutorial,26.4,7.0,11,3.2,9,50.8
+403,Lily Anderson,40,education,tutorial,shared,education,tutorial,48,69.0,Online course video,35.9,3.0,10,4.2,21,70.4
+404,Evelyn Martin,32,cooking,video,viewed,gaming,video,83,57.0,Esports highlights video,13.7,6.0,13,3.9,17,75.2
+405,Emma Scott,52,finance,video,completed,finance,blog,48,78.0,Personal finance newsletter,16.9,3.0,14,4.3,21,76.6
+406,Logan Scott,50,finance,blog,saved,finance,newsletter,35,66.0,Market update podcast,10.5,3.0,10,3.1,10,59.7
+407,Sebastian Adams,61,gaming,blog,viewed,gaming,blog,66,72.0,Esports highlights video,9.2,5.0,13,3.4,20,74.4
+408,Ella Walker,24,gaming,video,viewed,gaming,video,60,65.0,Gaming news blog,17.7,8.0,8,3.4,12,67.4
+409,David Taylor,31,fitness,podcast,viewed,fitness,podcast,79,70.0,Strength training guide,15.5,4.0,10,3.9,8,78.7
+410,Harper Baker,24,education,video,liked,travel,video,57,64.0,Budget travel newsletter,14.9,9.0,12,3.5,19,68.2
+411,Grace Harris,26,movies,podcast,completed,gaming,podcast,83,71.0,Gaming news blog,33.3,11.0,11,3.2,6,77.2
+412,Noah Martin,34,movies,video,viewed,movies,video,91,74.0,Streaming recommendations newsletter,8.7,5.0,5,3.3,13,79.1
+413,Grace Johnson,40,finance,newsletter,liked,travel,newsletter,76,53.0,City guide video,,5.0,5,2.0,19,58.6
+414,David Scott,65,travel,newsletter,viewed,travel,podcast,55,62.0,Travel planning podcast,23.3,7.0,17,1.8,17,60.2
+415,Grace Young,57,finance,blog,viewed,finance,blog,79,75.0,Budget planning tutorial,8.9,3.0,13,3.9,15,82.2
+416,Benjamin Hall,59,finance,newsletter,viewed,finance,newsletter,93,79.0,Budget planning tutorial,9.5,2.0,13,5.0,12,93.6
+417,Sophia Wright,33,fitness,tutorial,purchased,movies,newsletter,51,49.0,Cinema podcast,16.7,6.0,14,3.9,6,62.4
+418,Lily Lewis,21,cooking,blog,viewed,cooking,blog,68,63.0,Quick recipe video,13.1,6.0,14,3.0,23,69.4
+419,Harper Smith,65,Movies,blog,viewed,music,blog,38,43.0,New album video review,,7.0,21,2.8,9,53.2
+420,Charlotte Adams,48,gaming,video,viewed,gaming,video,27,58.0,New releases newsletter,19.0,5.0,10,2.5,10,50.7
+421,Matthew Young,65,fashion,blog,purchased,fashion,blog,57,98.0,Designer interview podcast,18.4,14.0,9,4.2,10,85.8
+422,Chloe Wilson,41,travel,newsletter,liked,travel,newsletter,50,63.0,Travel planning podcast,7.1,8.0,10,2.9,21,61.8
+423,Lily Wilson,18,music,playlist,viewed,music,video,59,62.0,Personalized workout playlist,13.3,5.0,9,3.4,18,66.2
+424,Aiden Moore,33,movies,podcast,viewed,fashion,podcast,62,59.0,Outfit ideas blog,16.5,4.0,1,3.3,14,62.0
+425,Benjamin Wilson,59,education,blog,viewed,gaming,blog,64,62.0,Gaming news blog,6.4,2.0,14,3.6,22,70.7
+426,Chloe Davis,62,gaming,podcast,liked,gaming,podcast,95,96.0,New releases newsletter,27.1,6.0,14,5.0,5,100.0
+427,Emma Smith,23,music,playlist,viewed,music,playlist,74,77.0,Indie music podcast,31.3,8.0,16,3.9,20,82.8
+428,Olivia Anderson,23,technology,tutorial,purchased,technology,playlist,71,87.0,Python programming blog,64.5,6.0,12,4.5,6,87.8
+429,Lucas Scott,63,technology,newsletter,viewed,technology,newsletter,82,66.0,Python programming blog,4.2,5.0,15,3.0,13,75.3
+430,Joseph King,31,fitness,playlist,viewed,fitness,video,31,40.0,Strength training guide,15.2,2.0,10,1.9,5,40.8
+431,Lily Young,37,fitness,playlist,viewed,gaming,playlist,84,58.0,Esports highlights video,24.8,2.0,11,2.5,23,68.2
+432,Emma Garcia,35,fitness,video,liked,fitness,podcast,52,61.0,Home workout tutorial,27.9,5.0,15,3.8,21,68.0
+433,Owen Anderson,58,gaming,video,viewed,cooking,podcast,71,36.0,Quick recipe video,19.4,2.0,4,2.3,16,50.6
+434,Samuel Green,59,technology,blog,liked,technology,podcast,68,66.0,Tech trends newsletter,21.2,7.0,17,2.6,10,69.9
+435,Samuel Wilson,52,movies,blog,shared,movies,playlist,61,72.0,Streaming recommendations newsletter,43.9,1.0,17,3.8,11,76.5
+436,Samuel Garcia,22,music,playlist,saved,music,podcast,67,81.0,Indie music podcast,31.0,7.0,13,3.6,14,79.8
+437,Owen Adams,41,gaming,podcast,saved,gaming,podcast,29,60.0,Esports highlights video,30.2,3.0,3,4.3,12,58.4
+438,Mason Hall,36,fitness,video,shared,finance,video,60,69.0,Market update podcast,18.2,4.0,7,3.4,1,68.8
+439,Amelia Johnson,49,gaming,video,viewed,gaming,video,73,64.0,Esports highlights video,13.2,4.0,13,3.9,17,75.4
+440,Noah Thomas,32,technology,blog,shared,cooking,blog,57,58.0,Quick recipe video,13.2,8.0,5,3.9,17,64.7
+441,Jackson Green,63,technology,podcast,viewed,technology,blog,49,57.0,AI tutorial video,8.3,6.0,10,2.8,20,58.4
+442,Joseph Johnson,24,finance,newsletter,viewed,finance,newsletter,47,60.0,Investing basics blog,9.0,7.0,17,3.4,14,64.9
+443,Mia Scott,58,travel,blog,liked,travel,blog,76,83.0,Budget travel newsletter,13.0,8.0,19,4.6,12,90.8
+444,Sebastian Clark,39,education,blog,saved,education,blog,91,98.0,Online course video,18.5,12.0,17,5.0,15,100.0
+445,Aiden Baker,64,travel,newsletter,purchased,movies,newsletter,73,88.0,Cinema podcast,14.4,9.0,14,4.7,9,90.6
+446,Chloe Moore,18,education,video,viewed,education,playlist,44,56.0,Study skills tutorial,23.4,5.0,12,2.5,17,55.7
+447,Liam Scott,62,Fashion,newsletter,viewed,fashion,podcast,75,63.0,Fashion newsletter,24.4,7.0,10,3.8,19,73.8
+448,Emily Brown,26,cooking,tutorial,viewed,cooking,tutorial,60,73.0,Cooking tips blog,22.7,4.0,10,3.7,8,73.4
+449,Charlotte Green,48,fitness,tutorial,liked,fitness,blog,49,52.0,Healthy routine video,13.7,7.0,13,3.3,11,59.8
+450,Olivia Wright,54,gaming,newsletter,liked,gaming,blog,56,61.0,,12.0,8.0,7,3.9,20,66.6
+451,Leah Hill,18,technology,tutorial,viewed,movies,playlist,89,48.0,Streaming recommendations newsletter,27.0,8.0,13,3.3,15,70.0
+452,Mason Levy,61,technology,video,viewed,technology,video,32,56.0,Cybersecurity podcast,15.8,10.0,9,3.4,15,55.4
+453,Ethan Harris,54,fashion,playlist,viewed,fashion,playlist,64,70.0,Style trends video,34.4,4.0,10,4.2,18,75.7
+454,Lily Lewis,30,travel,blog,shared,travel,blog,50,69.0,Travel planning podcast,18.7,6.0,8,4.1,16,69.8
+455,Hannah Miller,25,gaming,tutorial,viewed,gaming,newsletter,93,69.0,New releases newsletter,8.7,3.0,6,4.6,6,84.4
+456,Isabella Thomas,57,gaming,video,viewed,gaming,video,77,73.0,New releases newsletter,16.1,7.0,16,3.9,19,81.9
+457,Noah Smith,57,education,video,viewed,gaming,video,63,46.0,Esports highlights video,17.5,0.0,10,2.9,21,58.1
+458,Liam Anderson,31,finance,video,viewed,finance,blog,22,49.0,Investing basics blog,5.9,3.0,11,3.5,5,50.6
+459,Ella Walker,60,music,podcast,shared,music,podcast,81,76.0,Trending pop playlist,31.8,6.0,9,3.8,8,81.1
+460,Emma Miller,42,music,playlist,viewed,music,podcast,86,77.0,New album video review,21.8,13.0,13,3.3,18,82.2
+461,Nora Allen,24,Education,podcast,viewed,education,podcast,76,76.0,Learning resources newsletter,22.7,6.0,11,4.3,16,82.9
+462,Liam Levy,33,gaming,tutorial,purchased,gaming,tutorial,48,93.0,Gaming news blog,46.1,6.0,24,4.6,13,88.8
+463,Benjamin Green,21,fitness,tutorial,viewed,fitness,tutorial,51,71.0,Fitness progress newsletter,18.8,4.0,12,3.2,15,68.0
+464,Sebastian King,26,finance,tutorial,viewed,technology,podcast,51,37.0,AI tutorial video,13.6,3.0,12,2.8,18,50.8
+465,Leah Anderson,46,movies,blog,viewed,movies,podcast,43,51.0,,17.2,4.0,13,3.8,15,60.0
+466,Sophia Taylor,27,music,playlist,viewed,music,video,52,61.0,Indie music podcast,13.7,4.0,11,2.5,8,60.0
+467,Grace Taylor,37,fitness,tutorial,saved,music,tutorial,64,65.0,Personalized workout playlist,34.4,6.0,10,4.2,7,73.4
+468,Sophia Garcia,19,movies,newsletter,saved,movies,video,65,64.0,Cinema podcast,28.2,2.0,11,2.2,14,63.7
+469,Nora Adams,56,education,blog,viewed,education,blog,92,74.0,Science podcast,13.0,7.0,16,3.7,21,85.8
+470,Olivia Taylor,18,education,video,viewed,cooking,video,78,55.0,Cooking tips blog,11.9,4.0,12,4.2,16,74.0
+471,Owen Harris,62,fashion,video,viewed,fashion,video,84,81.0,Fashion newsletter,,10.0,17,4.1,12,89.0
+472,Charlotte Moore,57,finance,tutorial,shared,finance,newsletter,100,84.0,Personal finance newsletter,10.5,5.0,11,4.4,21,94.2
+473,Ella Clark,58,travel,video,liked,technology,podcast,36,45.0,AI tutorial video,24.8,2.0,18,3.2,13,54.2
+474,Noah Allen,51,music,podcast,viewed,education,podcast,81,68.0,Online course video,22.0,10.0,13,2.8,15,74.1
+475,Sophia Moore,44,gaming,blog,viewed,gaming,blog,25,63.0,Gaming news blog,11.0,7.0,13,3.6,7,59.0
+476,Evelyn Anderson,62,gaming,video,completed,gaming,podcast,40,59.0,Esports highlights video,36.1,4.0,14,3.4,18,61.2
+477,Owen Garcia,42,education,tutorial,viewed,education,tutorial,42,68.0,Science podcast,26.6,6.0,13,4.7,18,71.9
+478,Logan Scott,63,technology,tutorial,viewed,technology,video,59,51.0,AI tutorial video,11.1,3.0,13,2.4,19,57.8
+479,Owen Scott,34,gaming,video,viewed,cooking,video,100,56.0,Quick recipe video,14.8,5.0,12,3.0,12,75.0
+480,Elijah Walker,60,gaming,podcast,completed,gaming,podcast,31,71.0,New releases newsletter,45.5,6.0,8,3.3,13,61.0
+481,Noah Garcia,27,gaming,tutorial,completed,gaming,tutorial,57,79.0,Game strategy tutorial,42.6,9.0,20,3.6,9,78.6
+482,Grace Garcia,28,education,tutorial,viewed,travel,tutorial,89,55.0,Budget travel newsletter,27.0,8.0,13,3.8,22,75.6
+483,Ethan Scott,37,education,blog,purchased,education,podcast,61,71.0,Learning resources newsletter,43.4,6.0,14,3.9,7,75.4
+484,Lily Brown,25,fitness,tutorial,liked,fitness,tutorial,43,68.0,Fitness progress newsletter,31.1,4.0,11,3.4,17,64.9
+485,Ethan Harris,64,fitness,tutorial,viewed,fitness,tutorial,11,57.0,Fitness progress newsletter,22.7,1.0,6,3.0,18,46.4
+486,Owen Walker,49,gaming,podcast,liked,gaming,podcast,37,60.0,New releases newsletter,25.9,5.0,10,3.1,8,57.6
+487,Elijah Green,57,gaming,video,viewed,gaming,podcast,89,61.0,New releases newsletter,18.7,7.0,17,3.2,12,77.0
+488,Abigail Davis,22,gaming,video,viewed,gaming,video,66,67.0,Gaming news blog,16.6,6.0,7,3.0,4,67.8
+489,Amelia Anderson,39,Fitness,tutorial,viewed,music,podcast,15,20.0,Personalized workout playlist,16.4,6.0,9,1.7,16,25.6
+490,Henry White,44,cooking,blog,liked,cooking,blog,40,75.0,Quick recipe video,13.5,5.0,10,3.8,23,68.8
+491,Ava Brown,35,finance,newsletter,viewed,education,newsletter,46,48.0,Study skills tutorial,10.7,4.0,12,2.5,13,52.7
+492,Leah Johnson,37,fitness,tutorial,liked,fitness,tutorial,53,67.0,Fitness progress newsletter,30.4,3.0,8,3.8,23,68.2
+493,Logan Johnson,41,education,tutorial,viewed,education,podcast,75,62.0,Study skills tutorial,20.2,6.0,11,3.6,8,72.8
+494,Mason Martin,39,movies,playlist,liked,movies,playlist,57,79.0,Streaming recommendations newsletter,37.8,8.0,7,3.9,13,75.0
+495,Elijah Wright,20,movies,blog,saved,fitness,video,89,57.0,Strength training guide,21.1,5.0,12,3.2,20,73.1
+496,Ethan Anderson,47,fitness,podcast,viewed,fitness,podcast,50,74.0,Home workout tutorial,24.5,7.0,14,5.0,20,78.9
+497,Abigail Davis,52,technology,blog,viewed,music,blog,75,53.0,New album video review,3.2,2.0,9,4.3,12,71.4
+498,Samuel Clark,24,movies,podcast,viewed,movies,podcast,50,74.0,Top films blog,20.7,3.0,9,3.4,17,68.9
+499,Zoe White,21,travel,video,liked,travel,playlist,70,67.0,City guide video,29.9,0.0,7,3.2,20,70.0
+500,Logan Allen,56,technology,podcast,viewed,technology,podcast,77,76.0,Cybersecurity podcast,17.3,5.0,9,3.5,19,78.4
+501,Matthew Johnson,47,education,tutorial,completed,fashion,tutorial,64,61.0,Fashion newsletter,45.1,4.0,11,4.0,17,71.1
+502,Evelyn Hill,41,education,blog,viewed,education,blog,36,69.0,Science podcast,12.1,8.0,21,3.5,8,67.8
+503,Lily White,28,music,newsletter,viewed,music,podcast,84,67.0,New album video review,19.2,3.0,10,3.8,6,78.4
+504,Charlotte Lewis,59,movies,podcast,saved,movies,podcast,66,76.0,Movie review video,28.1,6.0,16,5.0,17,85.4
+505,Ava Anderson,31,movies,blog,liked,movies,blog,10,59.0,Streaming recommendations newsletter,1.9,8.0,10,3.4,15,50.6
+506,Hannah Baker,49,movies,blog,liked,fashion,podcast,45,33.0,Style trends video,23.4,5.0,5,2.7,10,43.8
+507,Ella Anderson,49,travel,video,viewed,travel,podcast,39,59.0,Weekend travel blog,28.2,4.0,9,3.6,11,59.8
+508,Ella Hall,54,technology,newsletter,viewed,music,video,77,45.0,Personalized workout playlist,15.6,3.0,12,2.5,13,60.6
+509,Emily Miller,55,music,video,completed,music,video,45,82.0,Trending pop playlist,25.2,11.0,11,4.9,15,79.3
+510,Emma Allen,53,education,video,completed,travel,video,100,73.0,Budget travel newsletter,27.8,7.0,15,3.5,13,86.4
+511,Ella Taylor,52,technology,tutorial,liked,technology,tutorial,39,69.0,Python programming blog,24.8,6.0,17,4.5,13,72.0
+512,Mason Wilson,60,education,video,completed,education,video,39,80.0,Online course video,25.9,6.0,10,3.9,7,71.2
+513,Grace Adams,47,technology,tutorial,liked,technology,playlist,72,62.0,Cybersecurity podcast,35.9,6.0,13,3.2,20,70.7
+514,Aiden Hall,18,education,video,viewed,education,tutorial,60,53.0,Science podcast,22.4,5.0,19,2.5,17,62.0
+515,Lily Allen,41,finance,newsletter,liked,finance,newsletter,24,70.0,Personal finance newsletter,12.4,10.0,12,3.3,8,60.0
+516,Matthew Clark,23,travel,playlist,purchased,travel,newsletter,100,92.0,Weekend travel blog,16.6,8.0,10,4.4,13,97.4
+517,Noah Nelson,39,music,podcast,shared,music,podcast,36,79.0,Trending pop playlist,33.0,6.0,13,2.8,13,65.6
+518,Abigail Garcia,20,gaming,tutorial,viewed,gaming,playlist,55,55.0,Gaming news blog,25.7,4.0,10,3.1,16,60.8
+519,Liam Wilson,49,movies,podcast,viewed,movies,podcast,100,92.0,Movie review video,25.3,6.0,17,4.4,17,100.0
+520,Emma Wright,25,technology,tutorial,viewed,education,tutorial,81,57.0,Online course video,27.7,6.0,9,3.7,17,72.0
+521,Joseph Adams,20,cooking,blog,viewed,cooking,blog,64,65.0,Cooking tips blog,6.3,3.0,8,3.8,18,70.6
+522,Ella Smith,60,fashion,,shared,fashion,playlist,47,66.0,Designer interview podcast,38.1,6.0,17,3.3,7,67.1
+523,Matthew Moore,48,movies,video,liked,movies,blog,62,59.0,Cinema podcast,14.8,10.0,15,3.1,11,66.6
+524,Evelyn Brown,51,gaming,newsletter,shared,travel,newsletter,52,64.0,Travel planning podcast,10.1,7.0,14,3.4,1,67.0
+525,Emily Adams,45,technology,podcast,purchased,technology,podcast,59,97.0,Tech trends newsletter,48.7,11.0,18,5.0,14,93.6
+526,Carter Scott,30,fitness,video,viewed,fitness,video,56,64.0,Fitness progress newsletter,13.9,7.0,13,3.1,13,66.3
+527,Mia King,46,education,playlist,viewed,education,playlist,80,82.0,Learning resources newsletter,33.5,7.0,9,3.9,18,84.0
+528,Elijah Hall,58,music,playlist,viewed,music,playlist,70,81.0,Trending pop playlist,29.4,6.0,13,3.6,9,80.6
+529,Lucas Allen,29,education,tutorial,shared,fitness,tutorial,40,50.0,Fitness progress newsletter,33.3,3.0,5,2.2,17,47.5
+530,Charlotte Davis,28,fitness,newsletter,purchased,fitness,newsletter,33,84.0,Home workout tutorial,19.9,5.0,17,4.5,11,77.0
+531,Amelia Hall,43,fitness,video,completed,fitness,playlist,60,79.0,Healthy routine video,50.4,6.0,6,4.3,13,77.5
+532,Chloe Allen,34,education,tutorial,liked,education,tutorial,83,76.0,Study skills tutorial,27.0,7.0,11,4.7,18,87.0
+533,Ella Davis,27,technology,tutorial,liked,cooking,tutorial,61,49.0,Cooking tips blog,27.1,5.0,17,3.5,6,64.6
+534,Ava Lewis,32,cooking,tutorial,viewed,cooking,playlist,61,60.0,Quick recipe video,29.4,6.0,10,4.7,12,72.8
+535,Noah Young,59,fitness,newsletter,completed,music,newsletter,42,63.0,Trending pop playlist,8.0,3.0,12,3.5,13,63.2
+536,Samuel Levy,42,fitness,podcast,liked,fitness,playlist,85,67.0,Healthy routine video,37.8,3.0,11,3.5,18,77.6
+537,Olivia Martin,19,fitness,tutorial,viewed,fitness,playlist,40,45.0,Healthy routine video,25.6,3.0,16,2.1,9,49.2
+538,Liam Levy,39,gaming,video,liked,gaming,video,37,70.0,Game strategy tutorial,22.5,9.0,13,4.2,21,68.8
+539,Mason Wright,55,fitness,newsletter,liked,fitness,newsletter,15,66.0,Healthy routine video,2.6,10.0,12,3.7,23,57.5
+540,Olivia Smith,62,cooking,video,viewed,cooking,video,55,76.0,Meal prep tutorial,13.4,3.0,13,4.4,19,77.9
+541,Lucas Harris,56,technology,blog,viewed,fitness,blog,30,34.0,Healthy routine video,2.6,4.0,12,1.7,11,37.6
+542,Zoe Brown,38,technology,tutorial,viewed,technology,playlist,42,59.0,Python programming blog,25.5,7.0,12,3.6,17,62.0
+543,Isabella White,33,movies,podcast,viewed,movies,podcast,35,67.0,Movie review video,22.1,4.0,10,3.8,7,63.6
+544,Ethan Cohen,18,technology,newsletter,viewed,technology,newsletter,77,79.0,Python programming blog,8.4,7.0,14,4.2,20,85.2
+545,Elijah Brown,58,cooking,blog,shared,cooking,blog,67,75.0,Cooking tips blog,12.0,5.0,11,3.6,15,76.2
+546,Ethan Young,37,travel,video,shared,technology,video,40,64.0,Tech trends newsletter,20.7,5.0,12,4.2,9,66.6
+547,Harper White,58,gaming,tutorial,liked,gaming,blog,100,84.0,Esports highlights video,12.6,4.0,5,5.0,12,94.8
+548,Noah Young,41,fitness,video,viewed,cooking,video,17,27.0,Cooking tips blog,10.3,5.0,10,1.5,19,28.8
+549,Isabella Green,19,music,playlist,viewed,music,tutorial,59,52.0,Personalized workout playlist,24.7,6.0,13,3.5,20,63.8
+550,Amelia Wright,61,travel,blog,liked,travel,blog,16,62.0,Budget travel newsletter,12.9,7.0,13,1.9,15,47.4
+551,Lily Walker,49,music,playlist,viewed,music,playlist,75,66.0,Trending pop playlist,29.5,1.0,5,4.0,14,74.2
+552,Amelia Young,40,cooking,video,viewed,finance,video,100,70.0,Market update podcast,17.2,1.0,11,2.8,18,79.9
+553,Henry Smith,36,music,playlist,viewed,music,playlist,75,69.0,Indie music podcast,29.3,2.0,12,3.5,19,75.8
+554,Ethan Taylor,51,movies,podcast,purchased,movies,podcast,44,82.0,Streaming recommendations newsletter,49.8,11.0,10,3.6,18,72.1
+555,Charlotte Taylor,55,finance,newsletter,viewed,finance,newsletter,25,53.0,Investing basics blog,7.4,2.0,14,3.0,13,52.0
+556,Olivia Harris,64,cooking,tutorial,viewed,cooking,tutorial,79,66.0,Quick recipe video,22.4,6.0,6,4.1,17,76.3
+557,Elijah Brown,40,gaming,tutorial,viewed,music,tutorial,59,54.0,New album video review,20.4,2.0,20,2.1,20,60.5
+558,Hannah Wright,55,music,tutorial,viewed,music,tutorial,60,73.0,Trending pop playlist,20.6,11.0,8,3.7,8,72.6
+559,Emma Adams,58,fashion,blog,saved,fashion,podcast,46,75.0,Style trends video,28.8,3.0,8,3.7,13,69.2
+560,Zoe Walker,31,fitness,newsletter,shared,fitness,newsletter,78,94.0,Home workout tutorial,9.5,8.0,12,5.0,6,95.5
+561,Olivia Thomas,41,education,tutorial,completed,fashion,podcast,76,71.0,Outfit ideas blog,37.5,9.0,18,4.1,13,82.4
+562,Zoe Johnson,59,education,blog,purchased,education,podcast,74,81.0,Science podcast,44.7,6.0,13,3.6,19,81.9
+563,Benjamin Levy,22,movies,newsletter,viewed,gaming,video,80,51.0,Gaming news blog,14.7,3.0,14,2.8,9,66.6
+564,Abigail White,57,fitness,tutorial,shared,fitness,tutorial,47,81.0,Fitness progress newsletter,31.8,5.0,17,5.0,15,82.4
+565,Abigail Miller,24,movies,playlist,completed,music,playlist,78,69.0,Indie music podcast,53.7,5.0,14,4.2,3,81.0
+566,Abigail Taylor,61,fitness,newsletter,completed,fitness,tutorial,72,68.0,Healthy routine video,43.6,6.0,14,3.2,20,73.8
+567,Henry Taylor,55,gaming,tutorial,viewed,technology,tutorial,72,62.0,Tech trends newsletter,22.6,7.0,13,3.3,19,71.2
+568,Chloe White,37,education,newsletter,liked,education,newsletter,51,78.0,Online course video,8.4,6.0,12,4.0,15,75.2
+569,Abigail White,28,cooking,video,purchased,gaming,video,62,75.0,Esports highlights video,31.8,8.0,13,3.7,18,76.0
+570,Hannah Brown,46,education,tutorial,viewed,fitness,tutorial,55,50.0,Fitness progress newsletter,23.1,5.0,12,2.1,7,54.3
+571,Zoe Wilson,25,fitness,video,purchased,fitness,video,75,91.0,Home workout tutorial,26.6,11.0,11,4.3,19,89.4
+572,Zoe Clark,39,gaming,tutorial,viewed,gaming,tutorial,79,65.0,Gaming news blog,23.0,7.0,12,4.4,18,79.8
+573,Sophia King,53,gaming,video,viewed,fitness,tutorial,79,38.0,Home workout tutorial,22.7,4.0,12,2.3,8,57.1
+574,Amelia Walker,51,fitness,tutorial,viewed,cooking,tutorial,76,66.0,Meal prep tutorial,20.6,6.0,23,3.6,23,79.7
+575,Sebastian Martin,49,movies,newsletter,saved,movies,newsletter,39,79.0,Cinema podcast,12.5,9.0,9,4.2,1,71.8
+576,Jackson Moore,41,education,video,viewed,education,video,16,56.0,Study skills tutorial,10.4,8.0,14,4.5,17,58.1
+577,Abigail Garcia,64,fitness,tutorial,shared,fashion,tutorial,3,46.0,Designer interview podcast,36.3,6.0,10,2.8,9,39.6
+578,Henry Miller,55,movies,blog,viewed,music,blog,83,66.0,Personalized workout playlist,13.0,5.0,16,4.2,18,82.0
+579,Logan Baker,42,technology,video,viewed,finance,video,21,34.0,Market update podcast,12.9,3.0,13,2.0,6,36.8
+580,Liam Green,18,travel,blog,shared,education,blog,43,53.0,Online course video,12.7,3.0,9,3.0,7,55.4
+581,James Cohen,25,music,newsletter,liked,cooking,newsletter,59,67.0,Cooking tips blog,2.6,6.0,12,3.7,14,71.1
+582,Evelyn Young,61,gaming,playlist,liked,gaming,playlist,74,82.0,New releases newsletter,33.1,7.0,11,3.9,23,83.0
+583,Matthew Nelson,62,fashion,playlist,saved,fashion,blog,65,71.0,Outfit ideas blog,12.3,5.0,9,3.7,11,73.6
+584,Abigail Wilson,51,fitness,video,completed,fitness,video,67,78.0,Home workout tutorial,23.5,7.0,14,4.6,17,83.8
+585,Benjamin King,62,travel,podcast,shared,travel,podcast,22,64.0,Budget travel newsletter,32.3,5.0,7,3.1,15,53.7
+586,Grace Anderson,28,technology,blog,viewed,music,blog,50,53.0,Trending pop playlist,14.6,7.0,7,3.1,19,57.2
+587,Lucas Taylor,47,music,podcast,saved,fashion,podcast,37,62.0,Style trends video,28.4,8.0,8,3.9,11,61.7
+588,Chloe Nelson,56,technology,tutorial,shared,technology,tutorial,58,72.0,Tech trends newsletter,31.1,7.0,13,3.4,16,72.0
+589,Elijah Brown,23,music,playlist,saved,fitness,playlist,70,61.0,Strength training guide,43.8,2.0,8,4.0,22,71.6
+590,Olivia Green,60,education,newsletter,viewed,education,playlist,73,55.0,Study skills tutorial,32.6,7.0,6,3.2,12,65.0
+591,Elijah Walker,30,gaming,newsletter,viewed,gaming,newsletter,70,81.0,Esports highlights video,5.4,5.0,6,4.1,14,80.4
+592,Emily Garcia,50,education,tutorial,completed,education,podcast,67,77.0,Online course video,38.8,6.0,15,3.0,20,75.8
+593,Emma Wright,24,travel,blog,shared,technology,blog,73,73.0,Python programming blog,18.1,6.0,13,3.7,12,78.4
+594,Logan Baker,40,cooking,newsletter,viewed,cooking,video,59,50.0,Weekly recipes newsletter,9.5,3.0,8,3.2,13,59.4
+595,Abigail Lewis,64,gaming,tutorial,viewed,gaming,podcast,70,62.0,Game strategy tutorial,17.3,6.0,17,4.4,11,77.7
+596,Harper Lewis,44,technology,video,shared,technology,video,68,85.0,Tech trends newsletter,21.0,7.0,20,4.7,19,90.2
+597,Sebastian White,51,fashion,blog,viewed,finance,playlist,85,42.0,Personal finance newsletter,25.5,3.0,11,3.3,21,65.3
+598,Henry Martin,56,technology,video,viewed,technology,podcast,61,54.0,Cybersecurity podcast,23.1,8.0,7,2.5,17,57.9
+599,Emily Harris,60,technology,newsletter,liked,education,tutorial,63,50.0,Science podcast,29.2,9.0,8,2.9,17,59.1
+600,David Smith,58,fashion,blog,viewed,fashion,blog,26,62.0,Outfit ideas blog,3.8,7.0,13,4.2,13,61.9
+601,Daniel Hall,57,technology,blog,purchased,cooking,blog,39,60.0,Quick recipe video,17.7,7.0,8,2.9,0,56.4
+602,David Harris,50,movies,podcast,viewed,movies,podcast,82,75.0,Cinema podcast,20.0,6.0,13,4.5,9,86.0
+603,Ella White,38,travel,podcast,shared,travel,podcast,100,86.0,Travel planning podcast,35.1,7.0,9,4.8,8,96.3
+604,David Taylor,26,gaming,video,saved,GAMING,video,59,75.0,Gaming news blog,21.1,3.0,6,4.2,7,74.9
+605,Samuel Adams,28,education,video,liked,education,video,51,76.0,Study skills tutorial,17.5,11.0,11,3.9,17,73.4
+606,Carter Levy,26,gaming,tutorial,viewed,movies,podcast,38,23.0,Cinema podcast,20.8,3.0,9,1.4,8,32.4
+607,Emily Levy,60,fitness,newsletter,viewed,fitness,podcast,6,42.0,Healthy routine video,22.4,1.0,10,3.7,7,43.2
+608,Henry Garcia,19,music,podcast,saved,music,blog,89,,New album video review,14.2,7.0,12,4.0,13,81.2
+609,Charlotte Moore,54,technology,blog,viewed,technology,blog,84,67.0,Cybersecurity podcast,4.3,7.0,9,3.9,10,78.4
+610,Henry Garcia,57,fitness,video,viewed,fitness,podcast,64,65.0,Fitness progress newsletter,22.9,3.0,11,3.4,8,69.9
+611,Daniel Walker,43,fitness,tutorial,saved,fitness,blog,45,55.0,Healthy routine video,9.2,1.0,9,3.2,8,57.8
+612,Ava Walker,51,education,podcast,liked,education,podcast,58,72.0,Science podcast,27.7,4.0,9,4.0,10,73.4
+613,Grace Moore,34,gaming,video,saved,gaming,newsletter,39,58.0,New releases newsletter,6.6,3.0,19,3.5,15,62.9
+614,Benjamin Hill,58,education,video,liked,fashion,newsletter,72,55.0,Designer interview podcast,10.6,9.0,11,3.6,18,68.8
+615,Aiden Taylor,38,cooking,blog,viewed,cooking,blog,64,69.0,Quick recipe video,7.0,5.0,9,3.3,20,70.4
+616,James Moore,33,education,newsletter,viewed,education,newsletter,95,90.0,Study skills tutorial,5.7,3.0,15,3.8,18,94.0
+617,Amelia Garcia,35,music,playlist,liked,education,playlist,35,40.0,Online course video,36.6,2.0,6,2.6,17,43.9
+618,David Green,19,technology,newsletter,liked,technology,newsletter,73,70.0,AI tutorial video,10.7,7.0,7,2.8,21,70.2
+619,Sophia Smith,25,finance,newsletter,completed,finance,playlist,42,69.0,Personal finance newsletter,49.1,4.0,13,3.6,15,66.8
+620,Leah Johnson,38,travel,podcast,completed,fashion,podcast,25,52.0,Fashion newsletter,41.2,4.0,13,2.8,17,50.1
+621,Grace Davis,55,finance,video,viewed,gaming,podcast,85,53.0,Game strategy tutorial,19.3,5.0,7,3.4,13,69.1
+622,Benjamin Nelson,27,gaming,video,viewed,movies,video,100,63.0,Cinema podcast,15.2,4.0,13,4.6,12,86.6
+623,James Davis,53,gaming,video,completed,gaming,video,94,87.0,New releases newsletter,28.0,6.0,13,3.4,12,89.6
+624,Chloe Moore,18,fitness,playlist,liked,fitness,blog,69,64.0,Strength training guide,9.1,5.0,15,4.8,8,79.5
+625,Charlotte Nelson,59,cooking,podcast,viewed,cooking,video,69,65.0,Weekly recipes newsletter,16.7,7.0,13,3.5,19,72.6
+626,Henry Allen,45,movies,video,viewed,movies,tutorial,52,58.0,Movie review video,21.3,5.0,13,3.5,6,64.4
+627,Liam Scott,21,finance,podcast,liked,finance,podcast,74,83.0,Investing basics blog,26.3,13.0,15,3.5,17,83.0
+628,Hannah Miller,25,education,newsletter,liked,education,newsletter,31,64.0,Online course video,13.8,5.0,12,4.1,20,63.4
+629,Evelyn Garcia,61,music,video,saved,gaming,tutorial,52,44.0,Gaming news blog,31.1,9.0,12,2.8,15,54.2
+630,Harper Cohen,19,movies,video,completed,movies,video,82,100.0,Top films blog,20.6,8.0,7,5.0,6,97.4
+631,Ethan Thomas,28,cooking,playlist,viewed,cooking,video,42,45.0,Quick recipe video,19.1,5.0,4,1.7,13,43.0
+632,Amelia Adams,35,technology,video,viewed,cooking,tutorial,43,31.0,Cooking tips blog,29.2,4.0,13,2.3,12,43.6
+633,Grace Garcia,44,movies,blog,viewed,movies,blog,76,70.0,Top films blog,8.3,4.0,10,4.3,23,79.8
+634,Matthew Miller,18,technology,playlist,viewed,technology,playlist,33,67.0,Cybersecurity podcast,22.5,3.0,12,3.6,18,62.9
+635,Samuel Levy,21,technology,video,shared,technology,tutorial,60,61.0,Tech trends newsletter,32.1,7.0,8,4.1,18,69.2
+636,Olivia Cohen,34,cooking,tutorial,liked,cooking,tutorial,46,79.0,Weekly recipes newsletter,29.1,8.0,11,4.8,15,77.8
+637,Henry Nelson,47,fitness,tutorial,viewed,fitness,newsletter,67,65.0,Healthy routine video,7.7,7.0,19,3.2,18,72.9
+638,David Adams,35,technology,blog,viewed,technology,blog,73,67.0,Tech trends newsletter,6.0,11.0,14,4.6,18,80.6
+639,Mason Lewis,60,cooking,video,viewed,travel,video,78,63.0,Travel planning podcast,16.9,8.0,9,3.5,6,72.8
+640,Aiden Johnson,49,technology,tutorial,viewed,technology,tutorial,90,83.0,AI tutorial video,25.7,6.0,12,,10,90.6
+641,Ethan Martin,36,gaming,playlist,viewed,gaming,playlist,59,69.0,Esports highlights video,24.0,6.0,14,3.8,0,73.4
+642,Hannah Garcia,44,finance,video,purchased,gaming,video,50,76.0,Game strategy tutorial,32.3,8.0,14,4.1,15,75.3
+643,Carter Hill,24,music,podcast,viewed,music,podcast,72,74.0,New album video review,27.9,5.0,11,2.5,20,71.8
+644,Emma Anderson,20,music,playlist,completed,cooking,playlist,60,77.0,Weekly recipes newsletter,51.9,7.0,14,4.0,17,78.2
+645,Ava Lewis,56,fitness,newsletter,viewed,gaming,newsletter,51,39.0,New releases newsletter,5.9,5.0,19,1.8,15,49.4
+646,Isabella Moore,43,Technology,tutorial,viewed,technology,playlist,48,49.0,Tech trends newsletter,27.0,4.0,9,3.9,21,59.6
+647,Sophia Thomas,60,education,podcast,saved,education,podcast,58,89.0,Study skills tutorial,35.1,4.0,17,5.0,9,89.2
+648,Aiden Miller,45,finance,blog,viewed,finance,tutorial,17,51.0,Market update podcast,17.4,11.0,9,3.5,6,49.2
+649,David Clark,58,education,video,viewed,education,video,48,58.0,Study skills tutorial,15.4,4.0,11,3.2,21,60.9
+650,James Clark,45,fitness,tutorial,purchased,cooking,tutorial,65,74.0,Cooking tips blog,46.5,9.0,12,3.4,20,74.6
+651,Evelyn Thomas,34,travel,newsletter,viewed,fashion,newsletter,86,69.0,Style trends video,14.0,7.0,11,3.4,18,78.2
+652,Olivia Miller,44,movies,video,viewed,cooking,video,78,60.0,Cooking tips blog,14.5,3.0,15,4.5,10,78.9
+653,Elijah Garcia,23,fitness,newsletter,viewed,cooking,newsletter,100,61.0,Cooking tips blog,13.1,4.0,15,3.1,22,79.0
+654,Lily White,62,finance,newsletter,viewed,finance,newsletter,53,61.0,Budget planning tutorial,4.7,3.0,10,2.1,18,57.8
+655,Daniel Miller,26,finance,tutorial,liked,finance,tutorial,80,84.0,Investing basics blog,32.0,6.0,16,4.9,17,92.7
+656,Mason Young,33,technology,tutorial,viewed,technology,blog,58,67.0,Cybersecurity podcast,10.3,2.0,16,4.5,10,76.4
+657,Isabella Nelson,27,finance,video,shared,finance,video,74,76.0,Budget planning tutorial,19.2,8.0,17,5.0,15,88.2
+658,Noah Anderson,18,fashion,blog,liked,gaming,blog,78,66.0,Game strategy tutorial,11.6,7.0,12,4.2,19,78.9
+659,David Clark,55,education,blog,shared,cooking,newsletter,67,55.0,Weekly recipes newsletter,13.9,3.0,6,3.9,20,66.8
+660,Grace Nelson,48,music,playlist,liked,music,playlist,61,73.0,Trending pop playlist,35.2,7.0,14,3.9,16,76.2
+661,Harper Clark,32,gaming,newsletter,viewed,gaming,blog,58,61.0,Gaming news blog,4.0,5.0,10,2.3,15,60.4
+662,Grace Baker,61,cooking,newsletter,completed,cooking,newsletter,39,79.0,Cooking tips blog,13.4,5.0,10,4.2,18,72.2
+663,Isabella Hall,49,movies,newsletter,shared,gaming,newsletter,56,56.0,Game strategy tutorial,7.6,7.0,15,3.6,15,66.0
+664,Emily Nelson,34,movies,playlist,liked,movies,playlist,52,62.0,Cinema podcast,34.6,8.0,7,3.4,13,63.3
+665,Samuel Smith,49,education,tutorial,viewed,fashion,tutorial,36,,Fashion newsletter,23.1,10.0,8,3.5,7,61.2
+666,Leah King,24,fashion,playlist,viewed,cooking,playlist,73,62.0,Quick recipe video,23.0,2.0,10,2.9,8,68.3
+667,Samuel Levy,50,cooking,tutorial,purchased,cooking,blog,67,75.0,Quick recipe video,12.1,8.0,11,3.4,18,75.2
+668,Nora Harris,64,music,playlist,shared,music,playlist,35,74.0,Trending pop playlist,42.6,5.0,9,5.0,1,72.4
+669,Henry Wilson,50,music,playlist,purchased,fitness,tutorial,62,68.0,Healthy routine video,45.8,5.0,9,4.8,5,76.8
+670,Grace Green,32,technology,video,viewed,movies,video,59,57.0,Top films blog,7.2,7.0,7,3.3,20,62.6
+671,Chloe Brown,18,movies,blog,saved,movies,blog,67,73.0,Movie review video,15.6,10.0,18,4.1,18,80.6
+672,Mason Nelson,54,technology,tutorial,viewed,gaming,tutorial,43,37.0,Game strategy tutorial,22.7,7.0,11,1.9,0,43.4
+673,Charlotte Hill,40,fashion,tutorial,viewed,cooking,playlist,51,36.0,Quick recipe video,24.7,5.0,9,2.8,11,49.1
+674,Elijah Nelson,52,finance,tutorial,viewed,finance,tutorial,38,71.0,Budget planning tutorial,19.6,5.0,15,4.8,18,73.4
+675,Joseph Lewis,36,education,newsletter,viewed,finance,podcast,42,28.0,Investing basics blog,21.9,5.0,5,1.3,13,33.7
+676,Carter Davis,33,technology,video,viewed,technology,podcast,57,63.0,Tech trends newsletter,22.2,4.0,10,3.8,14,68.4
+677,Lucas White,37,movies,tutorial,viewed,movies,tutorial,48,55.0,Movie review video,29.9,5.0,14,3.5,14,62.2
+678,Hannah King,26,gaming,playlist,viewed,fashion,video,48,35.0,Designer interview podcast,15.0,2.0,9,2.7,9,47.2
+679,Grace Miller,23,travel,blog,saved,travel,blog,56,82.0,Weekend travel blog,14.9,4.0,9,5.0,18,82.3
+680,Carter Lewis,51,gaming,video,liked,gaming,video,68,79.0,New releases newsletter,19.0,8.0,14,5.0,7,86.6
+681,Sophia Harris,63,finance,podcast,shared,finance,tutorial,51,70.0,Budget planning tutorial,36.0,7.0,11,3.7,15,69.7
+682,Samuel Thomas,25,technology,blog,viewed,fitness,tutorial,67,38.0,Strength training guide,23.8,5.0,11,2.9,9,56.1
+683,David Cohen,27,technology,video,viewed,technology,video,55,66.0,Python programming blog,19.1,4.0,15,3.7,5,70.7
+684,Emma Johnson,53,movies,blog,viewed,travel,podcast,80,53.0,Budget travel newsletter,19.1,9.0,16,2.8,8,68.2
+685,Sophia Scott,26,technology,tutorial,viewed,technology,tutorial,51,74.0,Cybersecurity podcast,22.4,7.0,11,4.1,20,73.5
+686,Grace Moore,32,movies,podcast,saved,movies,blog,78,85.0,Streaming recommendations newsletter,12.4,2.0,13,4.8,9,90.9
+687,Hannah Young,63,fitness,video,viewed,fitness,video,72,63.0,Fitness progress newsletter,17.5,7.0,9,3.6,11,71.6
+688,Noah Walker,51,travel,blog,liked,travel,blog,68,85.0,City guide video,16.5,5.0,10,3.9,8,82.2
+689,James Baker,63,movies,blog,liked,movies,blog,77,76.0,Streaming recommendations newsletter,10.2,6.0,12,3.8,18,81.1
+690,Henry Taylor,29,technology,video,liked,technology,video,58,64.0,Cybersecurity podcast,17.5,9.0,13,3.3,14,67.9
+691,Evelyn Scott,23,technology,video,purchased,technology,video,46,,Python programming blog,30.6,3.0,6,3.2,21,61.9
+692,Noah Wilson,42,fitness,tutorial,viewed,fitness,tutorial,57,57.0,Home workout tutorial,22.1,11.0,12,3.5,17,65.0
+693,Carter Smith,49,fitness,tutorial,saved,fitness,tutorial,71,93.0,Strength training guide,39.5,11.0,8,4.9,15,90.9
+694,Grace Young,32,cooking,video,viewed,cooking,video,71,62.0,Quick recipe video,8.3,7.0,13,4.0,17,74.4
+695,Chloe Miller,58,music,tutorial,liked,music,tutorial,65,79.0,Indie music podcast,27.5,4.0,16,3.7,4,80.0
+696,Samuel White,20,movies,video,viewed,movies,video,45,66.0,Movie review video,13.0,6.0,12,3.3,22,64.5
+697,Leah Davis,61,finance,tutorial,viewed,finance,tutorial,100,81.0,Budget planning tutorial,17.1,8.0,9,5.0,22,95.0
+698,Hannah Miller,37,fashion,playlist,viewed,fashion,podcast,78,71.0,Style trends video,18.7,8.0,13,3.7,11,79.0
+699,Henry Young,34,gaming,video,viewed,gaming,video,37,60.0,New releases newsletter,12.3,8.0,10,3.4,17,59.1
+700,Liam Hill,62,fitness,newsletter,completed,fitness,newsletter,73,89.0,Healthy routine video,13.3,14.0,18,4.5,9,91.6
+701,Zoe Miller,59,education,tutorial,viewed,education,video,86,69.0,Study skills tutorial,18.8,7.0,7,4.4,16,81.6
+702,Leah Thomas,42,travel,tutorial,viewed,cooking,tutorial,42,47.0,Meal prep tutorial,21.6,6.0,3,3.5,19,52.4
+703,Benjamin King,63,finance,video,completed,music,video,48,53.0,New album video review,22.4,7.0,12,3.7,21,61.6
+704,Jackson Levy,35,music,video,viewed,music,podcast,66,65.0,Personalized workout playlist,21.1,6.0,9,3.6,12,70.6
+705,Nora Harris,28,cooking,blog,saved,cooking,blog,29,78.0,Meal prep tutorial,16.6,8.0,11,3.6,18,66.2
+706,Ava Brown,34,education,video,viewed,education,video,86,72.0,Online course video,12.7,4.0,13,4.9,18,87.9
+707,Samuel Nelson,47,finance,podcast,purchased,finance,blog,53,75.0,Personal finance newsletter,14.2,6.0,15,4.5,10,78.2
+708,Benjamin Johnson,61,cooking,blog,viewed,technology,playlist,38,36.0,Cybersecurity podcast,28.5,3.0,14,2.2,17,44.2
+709,Sebastian Martin,39,gaming,tutorial,viewed,gaming,blog,42,41.0,Game strategy tutorial,7.4,5.0,4,3.4,17,49.6
+710,Amelia Garcia,39,finance,video,completed,gaming,tutorial,72,58.0,Gaming news blog,42.8,4.0,14,3.0,18,68.3
+711,James Johnson,48,technology,blog,viewed,technology,blog,75,72.0,Python programming blog,9.6,6.0,11,4.7,23,82.8
+712,Chloe Scott,24,fashion,playlist,saved,cooking,blog,17,46.0,Weekly recipes newsletter,14.0,4.0,7,3.7,4,47.1
+713,Noah Hill,46,travel,blog,viewed,travel,blog,66,65.0,Weekend travel blog,6.1,5.0,16,3.1,9,71.0
+714,Ella Moore,24,fitness,tutorial,liked,fitness,tutorial,56,72.0,Strength training guide,29.6,4.0,18,4.2,8,77.4
+715,Mia Anderson,59,music,podcast,viewed,music,podcast,73,82.0,Trending pop playlist,21.5,3.0,12,4.7,8,87.1
+716,Carter Green,30,gaming,video,liked,gaming,video,22,53.0,Esports highlights video,14.6,7.0,11,4.6,14,57.8
+717,Daniel Walker,45,education,tutorial,viewed,EDUCATION,playlist,65,53.0,Learning resources newsletter,23.0,4.0,11,2.7,20,61.2
+718,Jackson Cohen,51,fitness,blog,liked,gaming,blog,66,59.0,Esports highlights video,12.8,6.0,8,4.1,14,70.0
+719,Henry Martin,60,technology,video,viewed,music,video,75,49.0,Personalized workout playlist,13.4,7.0,10,3.0,17,63.6
+720,Owen Wilson,44,education,playlist,liked,education,playlist,100,89.0,Learning resources newsletter,33.9,6.0,9,3.9,12,93.2
+721,Owen Martin,33,music,podcast,completed,technology,podcast,42,65.0,Cybersecurity podcast,37.2,7.0,13,3.5,12,64.6
+722,Jackson Cohen,22,movies,tutorial,viewed,movies,video,38,40.0,Cinema podcast,17.4,3.0,11,2.6,19,46.8
+723,Amelia Martin,36,technology,tutorial,liked,technology,tutorial,62,65.0,Python programming blog,22.4,4.0,10,3.0,17,66.8
+724,Logan Baker,34,music,playlist,viewed,music,video,56,46.0,Trending pop playlist,9.8,4.0,13,3.0,12,57.7
+725,Jackson King,28,technology,blog,viewed,technology,video,67,61.0,Cybersecurity podcast,12.3,2.0,7,4.0,21,70.4
+726,Jackson Anderson,56,finance,newsletter,viewed,finance,video,83,68.0,Budget planning tutorial,19.8,7.0,13,3.9,15,80.2
+727,James Levy,58,fashion,video,viewed,fashion,video,27,57.0,Fashion newsletter,15.7,5.0,11,3.0,9,53.2
+728,Owen Miller,28,finance,video,viewed,cooking,video,54,54.0,Weekly recipes newsletter,17.0,7.0,11,3.1,14,60.4
+729,David Harris,35,movies,podcast,viewed,movies,podcast,53,71.0,Streaming recommendations newsletter,18.1,5.0,18,3.8,17,74.0
+730,James Moore,31,education,newsletter,completed,education,newsletter,79,95.0,Learning resources newsletter,10.9,11.0,12,4.9,12,95.8
+731,Joseph Thomas,32,gaming,video,liked,gaming,playlist,67,70.0,Game strategy tutorial,37.3,4.0,15,4.4,19,79.6
+732,Charlotte Davis,42,gaming,blog,viewed,gaming,blog,68,76.0,Game strategy tutorial,10.0,6.0,18,4.2,15,82.8
+733,Ethan Green,35,music,playlist,viewed,music,playlist,75,84.0,Indie music podcast,30.8,2.0,16,3.6,14,84.7
+734,Evelyn Wilson,65,technology,tutorial,viewed,technology,tutorial,41,62.0,Tech trends newsletter,22.5,10.0,9,3.2,20,59.8
+735,Sebastian Moore,55,music,podcast,completed,music,newsletter,78,81.0,Trending pop playlist,14.4,5.0,11,4.3,14,85.8
+736,Lily Smith,51,gaming,tutorial,viewed,fitness,video,62,37.0,Strength training guide,14.3,6.0,14,3.1,13,56.4
+737,Samuel Cohen,41,movies,blog,saved,education,tutorial,57,55.0,Online course video,37.1,3.0,9,3.9,7,64.9
+738,Henry Smith,44,travel,blog,liked,technology,blog,49,55.0,Cybersecurity podcast,13.0,3.0,9,4.2,12,64.0
+739,Mason Anderson,54,education,video,liked,fashion,video,57,50.0,Designer interview podcast,13.2,5.0,14,3.1,13,60.7
+740,Henry Walker,46,fashion,video,viewed,fashion,video,59,61.0,Fashion newsletter,8.3,2.0,17,3.9,9,71.4
+741,Ella Wilson,31,technology,tutorial,shared,technology,tutorial,49,67.0,Python programming blog,36.4,8.0,12,2.9,16,64.2
+742,Grace Moore,28,fitness,tutorial,viewed,FITNESS,tutorial,62,69.0,Home workout tutorial,27.0,4.0,17,4.0,8,76.4
+743,Isabella Hall,54,technology,video,viewed,finance,podcast,67,48.0,Market update podcast,17.3,1.0,14,2.3,10,58.8
+744,Chloe Miller,43,travel,video,viewed,travel,video,82,70.0,City guide video,9.9,6.0,15,3.8,16,81.1
+745,Emily Allen,63,travel,tutorial,viewed,cooking,tutorial,86,65.0,Cooking tips blog,23.5,2.0,17,5.0,11,86.8
+746,Matthew Moore,60,gaming,podcast,completed,finance,podcast,77,76.0,Investing basics blog,40.8,6.0,9,4.2,17,81.9
+747,Abigail King,22,education,tutorial,completed,education,tutorial,84,100.0,Online course video,48.4,7.0,14,4.5,18,98.3
+748,Charlotte Taylor,46,cooking,tutorial,shared,music,blog,96,69.0,Indie music podcast,14.0,8.0,14,4.0,11,85.4
+749,Amelia Moore,20,music,podcast,shared,music,podcast,61,81.0,Trending pop playlist,29.9,6.0,16,4.0,7,81.2
+750,Ava Miller,53,music,video,viewed,music,video,42,66.0,Indie music podcast,12.6,4.0,16,3.1,14,64.2
+751,Abigail Johnson,52,education,video,viewed,education,video,76,69.0,Science podcast,15.5,4.0,9,4.9,7,81.9
+752,Elijah Allen,20,music,video,viewed,MUSIC,video,38,56.0,Indie music podcast,13.9,2.0,9,3.8,15,59.2
+753,Chloe Levy,56,gaming,video,liked,gaming,video,57,72.0,Game strategy tutorial,16.2,6.0,11,4.1,18,74.4
+754,Ethan Cohen,44,technology,video,completed,technology,video,54,78.0,AI tutorial video,32.8,5.0,17,3.9,17,77.6
+755,Isabella Levy,44,fashion,blog,viewed,fashion,blog,88,73.0,Style trends video,15.0,6.0,12,3.7,14,82.6
+756,Aiden Johnson,32,finance,blog,completed,finance,blog,37,78.0,Investing basics blog,18.7,8.0,4,5.0,21,72.8
+757,Owen Thomas,20,technology,video,viewed,technology,video,65,68.0,AI tutorial video,12.6,1.0,12,3.9,7,74.4
+758,Isabella Davis,24,finance,blog,shared,cooking,video,75,64.0,Cooking tips blog,23.8,12.0,13,1.9,20,66.0
+759,Lily Miller,39,Fashion,newsletter,viewed,fashion,video,34,48.0,Style trends video,16.3,6.0,8,4.3,19,56.5
+760,Emma Smith,19,education,video,viewed,education,video,30,66.0,Study skills tutorial,16.6,5.0,9,3.7,13,60.8
+761,Olivia Smith,64,fitness,newsletter,viewed,music,newsletter,58,47.0,Personalized workout playlist,11.1,6.0,8,3.1,8,57.2
+762,Grace Young,36,movies,video,shared,movies,video,72,89.0,Movie review video,24.4,5.0,14,5.0,8,92.2
+763,Leah Adams,42,music,video,viewed,music,video,100,80.0,New album video review,18.2,6.0,9,4.5,21,92.1
+764,Mason Martin,26,music,podcast,completed,music,podcast,32,66.0,Trending pop playlist,39.4,5.0,12,4.1,10,64.6
+765,James Taylor,29,music,podcast,viewed,travel,podcast,59,47.0,City guide video,21.4,4.0,10,2.6,20,55.8
+766,Jackson Moore,42,fitness,tutorial,saved,travel,tutorial,44,50.0,City guide video,29.1,5.0,10,2.3,15,51.2
+767,Aiden Adams,23,gaming,tutorial,viewed,gaming,tutorial,83,79.0,Gaming news blog,24.2,5.0,8,4.3,14,85.2
+768,Ella Lewis,56,travel,blog,viewed,education,blog,55,49.0,Science podcast,6.8,6.0,9,3.7,17,60.6
+769,David Moore,44,technology,tutorial,viewed,technology,tutorial,85,78.0,Cybersecurity podcast,20.1,6.0,12,,10,84.4
+770,Olivia Hill,25,fashion,blog,liked,fashion,blog,63,79.0,Designer interview podcast,16.8,3.0,25,3.8,13,83.4
+771,Ella Hill,45,cooking,video,liked,travel,playlist,31,27.0,City guide video,39.0,7.0,6,2.8,21,37.8
+772,Mason Davis,33,music,playlist,viewed,technology,video,64,46.0,Python programming blog,18.4,5.0,12,2.6,10,57.7
+773,Aiden Garcia,45,technology,newsletter,shared,technology,playlist,70,67.0,Tech trends newsletter,41.6,5.0,7,3.5,21,71.4
+774,Ethan Johnson,58,education,video,viewed,education,newsletter,60,61.0,Learning resources newsletter,12.1,2.0,9,3.2,23,65.0
+775,Ava Scott,62,finance,newsletter,viewed,finance,podcast,73,55.0,Budget planning tutorial,20.8,2.0,9,3.2,5,66.2
+776,Amelia Harris,29,Travel,newsletter,viewed,fitness,newsletter,82,53.0,Home workout tutorial,8.3,2.0,9,2.3,15,63.6
+777,Chloe Young,57,gaming,podcast,viewed,gaming,podcast,62,72.0,Game strategy tutorial,18.3,6.0,11,3.6,9,73.4
+778,Liam Walker,33,finance,newsletter,viewed,finance,newsletter,46,64.0,Budget planning tutorial,9.4,6.0,10,3.7,17,65.1
+779,Mia Martin,51,gaming,blog,completed,gaming,blog,44,70.0,Game strategy tutorial,15.1,12.0,10,3.9,23,68.2
+780,Aiden Anderson,41,fitness,tutorial,shared,education,playlist,31,49.0,Learning resources newsletter,36.0,4.0,9,3.6,20,53.0
+781,Emma White,62,fashion,playlist,viewed,movies,playlist,50,41.0,Streaming recommendations newsletter,26.9,6.0,12,3.7,21,56.8
+782,James Thomas,46,movies,playlist,saved,movies,playlist,76,84.0,Streaming recommendations newsletter,44.0,9.0,9,5.0,9,89.2
+783,Charlotte King,46,travel,newsletter,completed,travel,newsletter,49,72.0,City guide video,18.5,9.0,10,4.4,15,73.1
+784,Mia Wright,42,education,video,viewed,education,video,87,83.0,Learning resources newsletter,18.8,9.0,9,4.2,10,88.0
+785,Matthew Garcia,46,education,blog,liked,FASHION,blog,94,76.0,Style trends video,11.6,11.0,15,3.7,20,86.9
+786,Mia Taylor,63,gaming,tutorial,completed,gaming,tutorial,81,84.0,Game strategy tutorial,42.9,9.0,4,4.4,9,85.7
+787,Sophia Hill,52,music,newsletter,viewed,education,newsletter,19,30.0,Science podcast,6.6,5.0,10,2.5,8,35.7
+788,Samuel Adams,45,technology,blog,viewed,fitness,blog,68,56.0,Healthy routine video,8.2,6.0,7,3.7,0,66.9
+789,Hannah Thomas,26,music,playlist,shared,music,playlist,92,83.0,New album video review,38.4,8.0,14,4.7,9,94.0
+790,Aiden Anderson,41,fashion,newsletter,liked,fashion,newsletter,49,73.0,Outfit ideas blog,9.7,5.0,13,3.9,9,72.2
+791,Harper Harris,61,travel,newsletter,liked,travel,newsletter,51,70.0,Travel planning podcast,7.8,7.0,12,4.2,6,72.6
+792,Benjamin Adams,63,music,playlist,viewed,technology,playlist,64,46.0,Cybersecurity podcast,23.5,0.0,10,3.5,20,61.4
+793,Harper Allen,65,education,tutorial,purchased,education,blog,43,70.0,Study skills tutorial,18.2,7.0,14,4.3,19,71.5
+794,Liam Lewis,43,cooking,blog,saved,movies,blog,94,70.0,Cinema podcast,14.3,8.0,12,3.8,10,83.5
+795,Samuel Moore,24,gaming,tutorial,viewed,gaming,tutorial,59,64.0,Esports highlights video,17.8,5.0,14,3.1,19,67.6
+796,Hannah Brown,46,fitness,podcast,viewed,technology,playlist,45,30.0,Cybersecurity podcast,26.1,3.0,5,1.7,13,37.5
+797,Ella Taylor,61,fitness,video,viewed,fitness,blog,67,54.0,Healthy routine video,11.7,5.0,10,2.8,19,62.4
+798,Henry Walker,45,cooking,video,purchased,fitness,blog,54,70.0,Healthy routine video,19.9,9.0,12,3.9,12,72.0
+799,Ella Scott,62,education,video,liked,education,video,43,79.0,Study skills tutorial,22.6,8.0,6,4.4,16,72.9
+800,Emma Johnson,25,movies,playlist,liked,movies,playlist,15,60.0,Movie review video,35.6,,17,2.6,13,51.3
+801,Carter Garcia,42,technology,blog,liked,travel,blog,47,46.0,Travel planning podcast,7.6,10.0,19,2.6,9,55.4
+802,Logan Moore,62,fashion,newsletter,viewed,fashion,newsletter,54,73.0,Style trends video,5.4,4.0,7,4.1,16,72.4
+803,Lucas Scott,31,gaming,podcast,liked,fashion,podcast,34,58.0,Style trends video,27.3,8.0,17,2.8,18,57.1
+804,Olivia Brown,54,music,podcast,saved,music,podcast,45,68.0,Indie music podcast,33.3,6.0,15,4.0,18,70.1
+805,Isabella Taylor,60,education,tutorial,purchased,education,blog,43,81.0,Study skills tutorial,21.1,9.0,15,4.1,12,75.8
+806,David Allen,38,music,playlist,viewed,education,playlist,61,60.0,Learning resources newsletter,31.3,5.0,8,3.0,15,63.5
+807,Sophia Hall,53,education,video,viewed,education,video,72,69.0,Online course video,15.1,6.0,14,3.8,18,77.2
+808,Isabella Moore,47,travel,blog,viewed,finance,blog,64,55.0,Personal finance newsletter,5.0,4.0,8,3.4,5,64.2
+809,Amelia Allen,41,cooking,blog,viewed,fitness,blog,54,59.0,Healthy routine video,8.0,3.0,19,2.9,6,64.8
+810,Ava Davis,25,gaming,video,purchased,finance,video,1,50.0,Personal finance newsletter,29.6,5.0,14,2.9,12,42.9
+811,Benjamin Cohen,24,education,video,completed,education,video,63,83.0,Science podcast,26.3,7.0,17,4.6,10,86.0
+812,Carter Baker,49,fashion,video,shared,music,video,50,57.0,Trending pop playlist,19.1,5.0,11,2.9,12,59.6
+813,Logan Thomas,65,travel,newsletter,viewed,fashion,newsletter,78,60.0,Designer interview podcast,8.8,5.0,6,2.5,7,65.3
+814,Mason Moore,54,gaming,video,viewed,gaming,video,67,65.0,Gaming news blog,13.7,5.0,13,2.8,16,68.6
+815,Matthew Clark,36,technology,blog,viewed,travel,blog,41,46.0,Budget travel newsletter,6.4,4.0,20,2.6,17,54.0
+816,Daniel Taylor,38,fashion,blog,viewed,fashion,podcast,67,52.0,Style trends video,21.5,10.0,14,2.4,19,61.1
+817,Emma Taylor,61,education,tutorial,liked,education,tutorial,76,85.0,Online course video,29.0,10.0,10,4.2,17,86.0
+818,Emma Allen,45,gaming,tutorial,viewed,fashion,playlist,70,40.0,Fashion newsletter,27.7,8.0,9,3.5,13,60.1
+819,Harper Garcia,22,music,video,liked,fashion,blog,91,63.0,Fashion newsletter,11.8,3.0,9,2.8,21,73.2
+820,Henry Hill,61,finance,blog,viewed,movies,blog,55,43.0,Top films blog,4.7,1.0,14,2.6,18,54.4
+821,Sebastian Martin,37,finance,video,viewed,travel,video,69,63.0,Weekend travel blog,13.7,3.0,12,4.7,15,77.4
+822,Daniel Thomas,24,cooking,newsletter,liked,technology,newsletter,93,69.0,AI tutorial video,14.3,3.0,10,4.0,9,83.0
+823,Grace Johnson,49,fitness,newsletter,viewed,fitness,newsletter,69,66.0,Home workout tutorial,4.8,5.0,9,3.4,17,71.0
+824,Logan Lewis,35,music,video,viewed,music,video,85,80.0,Trending pop playlist,9.7,6.0,8,4.1,16,85.2
+825,Lucas Martin,36,fashion,newsletter,shared,fashion,newsletter,100,89.0,Style trends video,6.4,5.0,11,4.8,18,98.5
+826,Benjamin Johnson,44,technology,video,liked,technology,video,63,81.0,Cybersecurity podcast,19.7,7.0,20,5.0,19,88.4
+827,Sophia Johnson,24,travel,podcast,shared,travel,podcast,79,87.0,Weekend travel blog,31.4,5.0,11,4.2,21,88.2
+828,Aiden Hall,65,technology,video,liked,technology,blog,46,59.0,AI tutorial video,10.4,3.0,6,2.9,21,57.2
+829,Lucas Adams,34,gaming,video,liked,gaming,podcast,60,62.0,Esports highlights video,30.1,6.0,15,2.7,17,65.4
+830,Owen Garcia,30,education,video,shared,education,blog,49,70.0,Online course video,4.5,8.0,9,3.9,22,69.3
+831,Ella Taylor,51,music,playlist,viewed,music,video,55,47.0,New album video review,15.5,7.0,12,2.1,21,53.0
+832,Noah Wilson,25,education,playlist,viewed,education,playlist,56,70.0,Learning resources newsletter,33.2,5.0,4,3.5,0,67.4
+833,Elijah Wilson,48,fitness,blog,completed,fitness,blog,62,85.0,Fitness progress newsletter,12.3,8.0,17,3.9,17,83.1
+834,Mia King,18,cooking,video,viewed,cooking,playlist,62,51.0,Meal prep tutorial,26.4,5.0,7,3.6,9,62.4
+835,Ella Miller,24,fitness,newsletter,liked,fitness,tutorial,63,73.0,Healthy routine video,27.4,7.0,18,3.6,11,77.0
+836,Mia Miller,52,education,blog,viewed,education,podcast,78,68.0,Learning resources newsletter,18.7,6.0,5,3.9,11,75.5
+837,Emily Nelson,41,fitness,tutorial,viewed,fashion,blog,34,38.0,Designer interview podcast,6.9,3.0,12,1.6,14,40.1
+838,Liam Garcia,56,education,tutorial,liked,education,tutorial,77,86.0,Learning resources newsletter,34.6,11.0,18,4.5,0,91.5
+839,David King,52,education,tutorial,saved,education,tutorial,50,79.0,Study skills tutorial,41.5,3.0,11,3.5,10,72.5
+840,Logan Cohen,28,music,,liked,music,tutorial,31,49.0,Indie music podcast,27.4,7.0,9,2.7,2,48.4
+841,Abigail Allen,35,travel,blog,shared,fashion,blog,45,53.0,Style trends video,17.4,4.0,14,4.3,17,64.4
+842,Sophia Davis,21,music,playlist,viewed,music,playlist,59,66.0,Indie music podcast,28.4,3.0,14,4.2,20,74.0
+843,Evelyn Wright,26,fashion,video,liked,fashion,video,79,88.0,Designer interview podcast,25.3,5.0,13,4.4,23,90.5
+844,Logan Davis,19,cooking,video,shared,technology,podcast,58,48.0,AI tutorial video,29.1,2.0,11,4.7,14,66.9
+845,Elijah Walker,58,movies,podcast,liked,travel,newsletter,67,47.0,Travel planning podcast,9.2,6.0,6,2.4,10,55.6
+846,Logan White,29,music,playlist,viewed,movies,playlist,49,53.0,Top films blog,28.7,4.0,9,3.8,20,61.2
+847,Amelia Miller,27,music,podcast,viewed,education,podcast,70,64.0,Study skills tutorial,30.7,10.0,8,2.7,7,66.5
+848,Emma Hall,24,gaming,tutorial,shared,gaming,tutorial,79,79.0,New releases newsletter,36.5,7.0,14,4.0,22,84.8
+849,Leah Cohen,18,fitness,video,viewed,fitness,blog,63,69.0,Home workout tutorial,7.3,10.0,14,3.0,18,70.6
+850,Chloe Baker,28,travel,podcast,liked,music,podcast,46,61.0,New album video review,29.4,5.0,12,3.6,15,64.0
+851,Mia Clark,44,fitness,video,viewed,fitness,newsletter,66,59.0,Healthy routine video,6.9,9.0,4,3.4,7,65.0
+852,Harper Hill,61,technology,tutorial,viewed,technology,tutorial,53,65.0,Cybersecurity podcast,21.8,4.0,6,3.4,1,64.6
+853,Ava Hall,39,education,blog,viewed,cooking,blog,100,67.0,Quick recipe video,12.1,7.0,10,4.3,15,85.6
+854,Joseph Anderson,56,fitness,blog,viewed,fitness,blog,91,82.0,Healthy routine video,10.2,6.0,8,4.0,13,87.4
+855,Jackson Hill,34,Education,tutorial,saved,education,tutorial,56,84.0,Study skills tutorial,37.0,5.0,12,4.5,19,81.9
+856,Ava Johnson,54,movies,playlist,viewed,fitness,playlist,69,60.0,Strength training guide,28.0,9.0,17,3.9,17,74.0
+857,Grace Hall,58,fashion,video,shared,fashion,podcast,47,68.0,Fashion newsletter,31.4,7.0,14,2.9,13,64.8
+858,David Lewis,52,technology,podcast,liked,finance,podcast,80,72.0,Investing basics blog,28.3,4.0,15,3.5,10,79.9
+859,Jackson Cohen,31,fitness,tutorial,shared,fitness,tutorial,61,76.0,Home workout tutorial,28.0,5.0,12,4.1,14,77.8
+860,Sophia Wilson,47,fitness,tutorial,completed,fitness,tutorial,30,75.0,Healthy routine video,43.7,7.0,13,4.3,8,69.4
+861,Ella Wright,19,finance,podcast,saved,movies,podcast,72,62.0,Streaming recommendations newsletter,29.0,3.0,8,4.3,17,74.2
+862,Liam Brown,41,fitness,newsletter,saved,fitness,newsletter,65,77.0,Healthy routine video,7.5,4.0,11,4.0,16,78.6
+863,Daniel Harris,44,technology,tutorial,shared,technology,video,51,70.0,Tech trends newsletter,21.3,9.0,11,3.6,19,69.2
+864,Olivia Hall,29,gaming,blog,viewed,gaming,blog,64,80.0,Esports highlights video,10.3,4.0,13,3.7,14,78.9
+865,Harper Taylor,28,technology,newsletter,shared,technology,tutorial,60,67.0,Tech trends newsletter,31.3,11.0,12,3.9,11,72.4
+866,Sebastian Garcia,65,fashion,blog,liked,fitness,tutorial,88,53.0,Home workout tutorial,31.1,10.0,13,3.0,19,70.4
+867,Aiden Martin,35,finance,blog,saved,finance,blog,80,98.0,Personal finance newsletter,10.5,9.0,16,4.8,18,98.5
+868,Mia Miller,31,technology,video,viewed,movies,video,93,70.0,Movie review video,14.3,8.0,14,3.7,18,83.5
+869,Olivia Walker,48,movies,video,viewed,movies,video,55,75.0,Movie review video,14.0,12.0,6,4.3,15,74.2
+870,Amelia Anderson,43,technology,tutorial,completed,technology,podcast,100,94.0,Tech trends newsletter,38.8,,12,4.4,20,99.1
+871,Liam Walker,42,fashion,newsletter,shared,fashion,newsletter,91,83.0,Designer interview podcast,12.5,6.0,16,3.9,10,90.6
+872,Ethan Allen,32,travel,tutorial,viewed,travel,tutorial,83,87.0,City guide video,21.3,5.0,10,4.7,13,91.6
+873,Chloe Green,26,movies,podcast,liked,fitness,newsletter,58,46.0,Fitness progress newsletter,11.0,8.0,8,1.2,19,47.3
+874,Leah Miller,27,fitness,tutorial,viewed,technology,playlist,33,40.0,Cybersecurity podcast,27.2,3.0,7,2.3,8,42.2
+875,Matthew Anderson,28,technology,tutorial,purchased,education,tutorial,63,68.0,Learning resources newsletter,41.7,4.0,11,3.1,19,69.4
+876,Evelyn Harris,34,music,playlist,viewed,music,playlist,53,70.0,Personalized workout playlist,22.6,13.0,10,4.5,12,73.9
+877,Sophia White,41,education,tutorial,viewed,education,tutorial,74,82.0,Learning resources newsletter,24.1,0.0,16,4.0,8,85.5
+878,Owen Young,21,fitness,newsletter,completed,fitness,newsletter,46,71.0,Healthy routine video,12.4,3.0,11,3.5,6,67.6
+879,Ella Adams,47,education,video,viewed,education,video,26,54.0,Study skills tutorial,14.4,4.0,17,3.1,19,54.4
+880,Sebastian Scott,45,fitness,tutorial,viewed,fitness,blog,45,45.0,Healthy routine video,8.2,4.0,9,2.5,19,49.8
+881,Olivia Lewis,27,gaming,video,viewed,gaming,video,61,73.0,New releases newsletter,16.3,5.0,10,3.7,11,73.6
+882,Aiden Harris,31,music,playlist,viewed,music,tutorial,52,56.0,Trending pop playlist,25.6,1.0,10,3.3,7,61.3
+883,Ethan Wilson,63,music,playlist,liked,finance,playlist,68,62.0,Budget planning tutorial,32.3,3.0,21,3.2,10,72.7
+884,Aiden Anderson,37,finance,blog,saved,finance,blog,65,74.0,Investing basics blog,9.8,7.0,9,3.7,9,74.9
+885,Ella Baker,18,music,newsletter,saved,music,newsletter,82,96.0,Indie music podcast,9.5,9.0,12,4.3,18,94.1
+886,Emma Brown,47,technology,blog,purchased,technology,blog,57,89.0,Python programming blog,18.5,7.0,11,3.9,10,81.1
+887,Chloe Young,55,gaming,video,shared,finance,video,100,70.0,Personal finance newsletter,25.2,2.0,9,3.8,10,84.1
+888,Emily Martin,30,technology,blog,liked,technology,podcast,58,59.0,AI tutorial video,25.1,8.0,15,3.5,2,67.4
+889,Grace Taylor,40,fitness,tutorial,saved,fitness,tutorial,78,91.0,Fitness progress newsletter,29.0,10.0,11,3.9,16,88.2
+890,Jackson Garcia,53,finance,blog,viewed,education,blog,78,61.0,Online course video,3.9,6.0,7,3.9,18,73.1
+891,Ethan Green,24,travel,video,shared,finance,video,100,69.0,Personal finance newsletter,19.0,8.0,11,4.2,17,86.4
+892,Mia Young,46,education,blog,shared,education,blog,45,80.0,Study skills tutorial,11.3,4.0,17,4.7,16,79.8
+893,Emily Green,47,education,newsletter,viewed,education,tutorial,69,54.0,Science podcast,21.5,3.0,19,3.3,22,69.1
+894,Nora Wilson,35,cooking,blog,viewed,movies,blog,83,57.0,Cinema podcast,9.0,9.0,8,3.6,14,71.8
+895,Joseph Baker,65,fitness,blog,completed,travel,blog,66,71.0,Budget travel newsletter,14.0,5.0,17,5.0,20,83.6
+896,Sebastian Baker,21,fitness,playlist,viewed,travel,playlist,62,61.0,Travel planning podcast,31.2,7.0,7,3.3,17,65.4
+897,Nora Johnson,58,technology,blog,viewed,gaming,blog,69,49.0,New releases newsletter,6.4,4.0,9,2.4,7,58.4
+898,Ethan Miller,19,finance,podcast,completed,finance,podcast,74,85.0,Budget planning tutorial,35.9,8.0,14,3.6,19,84.0
+899,Sophia White,58,technology,newsletter,liked,technology,newsletter,87,74.0,Tech trends newsletter,11.6,12.0,11,4.9,16,88.3
+900,Evelyn King,21,music,video,saved,music,video,57,81.0,New album video review,18.6,9.0,13,5.0,17,83.8
+901,Abigail Davis,29,technology,tutorial,viewed,technology,blog,71,55.0,AI tutorial video,9.9,5.0,11,2.7,9,64.0
+902,Grace Miller,49,technology,newsletter,liked,travel,newsletter,57,46.0,Weekend travel blog,9.1,5.0,12,2.4,13,54.6
+903,Leah Adams,20,music,podcast,viewed,cooking,video,86,60.0,Quick recipe video,14.6,4.0,7,3.2,20,71.6
+904,Joseph Wright,34,fashion,tutorial,liked,fashion,tutorial,45,64.0,Style trends video,34.0,5.0,7,4.2,10,66.1
+905,Liam Anderson,26,music,playlist,viewed,music,playlist,68,67.0,Indie music podcast,26.5,8.0,12,,0,70.4
+906,Emily Allen,53,technology,blog,viewed,technology,blog,54,58.0,Tech trends newsletter,15.1,2.0,15,2.2,10,59.3
+907,Sebastian Johnson,55,gaming,podcast,viewed,gaming,video,74,60.0,Gaming news blog,14.3,3.0,10,4.6,14,76.2
+908,Charlotte Hall,24,music,playlist,liked,finance,tutorial,98,58.0,Budget planning tutorial,25.1,8.0,11,3.5,19,77.4
+909,Evelyn Walker,44,gaming,tutorial,viewed,gaming,tutorial,64,76.0,Gaming news blog,24.0,3.0,13,4.3,17,80.1
+910,Charlotte Taylor,29,education,newsletter,viewed,fashion,newsletter,66,49.0,Fashion newsletter,4.2,3.0,7,2.8,21,58.6
+911,Elijah White,54,music,playlist,viewed,music,playlist,92,80.0,New album video review,26.7,2.0,18,4.5,14,93.3
+912,Samuel Davis,63,cooking,tutorial,liked,cooking,tutorial,63,69.0,Quick recipe video,30.6,6.0,16,2.9,13,70.9
+913,David Levy,35,travel,newsletter,saved,travel,newsletter,64,87.0,Travel planning podcast,14.0,11.0,19,4.0,10,85.9
+914,Abigail Cohen,59,technology,video,viewed,technology,video,68,61.0,AI tutorial video,13.2,7.0,18,3.5,10,72.6
+915,Ava Harris,24,cooking,video,liked,movies,video,44,42.0,Streaming recommendations newsletter,20.7,6.0,12,1.4,18,43.9
+916,Owen Levy,43,movies,video,saved,finance,video,58,68.0,Market update podcast,26.1,2.0,23,3.6,7,75.2
+917,Mia Anderson,62,education,video,viewed,music,newsletter,68,37.0,Personalized workout playlist,11.2,6.0,17,2.3,10,55.4
+918,Evelyn Nelson,20,music,,purchased,movies,newsletter,98,67.0,Movie review video,15.9,8.0,16,3.5,20,83.4
+919,Lucas Brown,38,technology,tutorial,viewed,technology,playlist,67,64.0,Python programming blog,32.3,5.0,12,3.3,16,70.2
+920,Joseph Smith,54,movies,playlist,liked,finance,playlist,71,67.0,Budget planning tutorial,30.2,5.0,15,3.1,5,73.0
+921,Samuel Baker,33,education,playlist,viewed,education,video,65,60.0,Online course video,14.0,9.0,11,2.4,18,62.9
+922,Ella Martin,49,education,tutorial,liked,education,tutorial,30,68.0,Study skills tutorial,26.8,4.0,14,3.8,15,64.2
+923,Sophia Smith,41,fitness,podcast,shared,fashion,playlist,40,37.0,Designer interview podcast,39.7,5.0,12,2.3,20,45.0
+924,Isabella King,37,fashion,playlist,viewed,fashion,video,29,50.0,Style trends video,12.8,5.0,12,2.2,18,47.0
+925,Chloe Thomas,34,music,blog,viewed,travel,blog,59,57.0,Weekend travel blog,8.4,4.0,13,3.3,0,65.0
+926,Henry Levy,46,cooking,video,liked,cooking,video,84,89.0,Cooking tips blog,25.7,8.0,13,4.4,9,92.4
+927,Leah Harris,51,fitness,video,viewed,fitness,podcast,40,57.0,Strength training guide,20.3,7.0,13,3.0,10,57.9
+928,Hannah Davis,33,technology,tutorial,viewed,technology,tutorial,77,65.0,AI tutorial video,24.5,3.0,11,2.4,18,68.8
+929,David Martin,28,travel,blog,viewed,finance,blog,57,48.0,Investing basics blog,7.7,3.0,8,3.3,15,58.4
+930,Lily Wright,37,fitness,video,viewed,fitness,blog,21,53.0,Healthy routine video,8.9,6.0,14,2.4,18,47.8
+931,Henry Cohen,29,music,video,viewed,music,video,90,82.0,New album video review,16.1,7.0,10,4.3,15,89.4
+932,Emma Harris,33,finance,newsletter,purchased,technology,newsletter,55,80.0,Cybersecurity podcast,16.3,10.0,14,3.8,12,77.1
+933,Mia Wilson,65,Technology,newsletter,liked,technology,video,67,59.0,Tech trends newsletter,22.0,6.0,9,3.1,7,65.8
+934,Emma Baker,40,gaming,blog,viewed,education,blog,71,59.0,Learning resources newsletter,13.9,4.0,12,4.0,9,72.6
+935,Harper King,27,education,newsletter,shared,cooking,newsletter,61,65.0,Cooking tips blog,11.7,2.0,8,3.9,13,70.2
+936,Ella Young,24,gaming,video,shared,finance,video,57,56.0,Market update podcast,22.6,9.0,17,3.9,16,68.6
+937,Sebastian Walker,44,finance,podcast,viewed,cooking,newsletter,77,46.0,Cooking tips blog,3.8,3.0,11,3.0,21,63.2
+938,Matthew Walker,40,fitness,video,liked,fitness,video,52,75.0,Fitness progress newsletter,19.1,8.0,11,4.2,10,74.8
+939,Daniel Harris,36,technology,tutorial,viewed,GAMING,tutorial,89,57.0,Game strategy tutorial,25.7,5.0,10,2.3,17,67.8
+940,David Wilson,18,movies,video,liked,movies,video,56,64.0,Streaming recommendations newsletter,21.4,6.0,7,3.4,8,65.4
+941,Mason Miller,63,fitness,podcast,completed,fitness,podcast,67,94.0,Fitness progress newsletter,39.5,6.0,14,4.6,18,91.0
+942,Emily Smith,61,music,video,viewed,music,playlist,38,55.0,Personalized workout playlist,30.4,3.0,8,3.9,0,58.8
+943,Carter Brown,61,gaming,playlist,viewed,gaming,playlist,52,66.0,Esports highlights video,29.8,5.0,13,3.4,17,67.5
+944,Matthew Lewis,29,music,podcast,viewed,music,podcast,85,87.0,Personalized workout playlist,26.0,7.0,10,4.6,8,91.6
+945,Matthew Thomas,45,movies,newsletter,shared,movies,newsletter,31,69.0,Streaming recommendations newsletter,11.8,9.0,12,3.9,9,64.6
+946,Ethan Scott,26,gaming,tutorial,completed,gaming,tutorial,61,88.0,Gaming news blog,41.3,4.0,7,5.0,16,85.7
+947,Sophia Moore,60,movies,podcast,completed,movies,podcast,66,89.0,Movie review video,39.7,9.0,15,4.5,12,88.4
+948,Mia Anderson,56,gaming,blog,viewed,gaming,video,57,66.0,Game strategy tutorial,6.5,9.0,8,4.1,14,70.5
+949,Elijah Clark,27,finance,podcast,shared,finance,blog,47,54.0,Budget planning tutorial,12.8,1.0,8,2.2,11,52.6
+950,David Hall,62,technology,podcast,liked,technology,podcast,32,55.0,Python programming blog,15.2,9.0,11,2.3,22,50.2
+951,Chloe Moore,21,technology,tutorial,viewed,technology,tutorial,68,77.0,AI tutorial video,18.7,10.0,15,2.8,11,75.0
+952,Owen King,46,fitness,tutorial,saved,fitness,tutorial,83,87.0,Home workout tutorial,37.7,8.0,14,4.9,15,94.1
+953,Lily Wilson,36,gaming,blog,viewed,gaming,podcast,60,63.0,Game strategy tutorial,22.6,3.0,13,3.9,20,71.0
+954,Matthew Taylor,45,fashion,blog,shared,fashion,blog,36,63.0,Outfit ideas blog,8.7,5.0,11,4.0,17,63.6
+955,Chloe Levy,40,technology,video,viewed,technology,video,36,69.0,Python programming blog,13.3,3.0,11,3.4,12,63.2
+956,Elijah Thomas,63,gaming,blog,liked,gaming,playlist,28,58.0,New releases newsletter,39.5,7.0,12,3.0,16,54.3
+957,Benjamin Green,60,travel,blog,liked,travel,blog,23,56.0,Budget travel newsletter,9.1,5.0,5,3.2,7,50.1
+958,Hannah Allen,50,cooking,video,viewed,finance,video,71,50.0,Market update podcast,21.2,1.0,8,3.8,15,66.0
+959,Harper Johnson,60,technology,video,saved,movies,video,66,61.0,Movie review video,22.2,7.0,16,4.4,13,75.6
+960,Mia Nelson,29,gaming,,saved,gaming,blog,64,79.0,New releases newsletter,14.8,8.0,9,4.6,18,81.4
+961,Leah Young,19,movies,blog,viewed,movies,blog,66,72.0,Top films blog,14.5,7.0,15,4.1,20,78.7
+962,Evelyn Harris,46,fitness,newsletter,liked,fitness,tutorial,55,58.0,Fitness progress newsletter,29.3,3.0,7,4.1,9,65.9
+963,Elijah Levy,26,music,video,saved,music,video,65,75.0,Trending pop playlist,19.9,7.0,14,3.9,7,78.4
+964,Joseph Harris,30,fitness,tutorial,viewed,fitness,tutorial,64,80.0,Healthy routine video,23.7,12.0,15,4.0,13,81.2
+965,Ella Adams,22,travel,video,liked,travel,video,66,80.0,Weekend travel blog,19.5,12.0,17,4.1,15,83.1
+966,Henry Cohen,32,technology,video,viewed,technology,video,67,78.0,Tech trends newsletter,11.8,9.0,9,3.6,12,76.8
+967,James Adams,51,cooking,video,completed,cooking,video,69,96.0,Cooking tips blog,26.8,5.0,10,4.7,17,91.4
+968,Liam Levy,39,gaming,video,viewed,gaming,video,60,67.0,New releases newsletter,13.1,6.0,12,3.1,15,68.4
+969,James Harris,22,music,playlist,saved,gaming,playlist,45,49.0,Game strategy tutorial,45.2,4.0,14,3.5,21,58.6
+970,Sophia Davis,64,fitness,video,completed,fitness,blog,91,89.0,Home workout tutorial,16.0,7.0,6,4.9,13,94.3
+971,Liam Hill,21,technology,video,viewed,technology,video,70,69.0,AI tutorial video,14.6,4.0,11,4.5,7,79.0
+972,Ella Scott,42,movies,newsletter,liked,movies,blog,21,41.0,Top films blog,9.5,6.0,12,1.7,11,38.0
+973,Henry Taylor,21,gaming,tutorial,completed,gaming,tutorial,81,88.0,Esports highlights video,43.1,11.0,14,5.0,16,94.5
+974,James Baker,21,music,podcast,liked,music,newsletter,59,53.0,Trending pop playlist,11.0,11.0,12,2.3,10,57.8
+975,Leah Moore,48,technology,video,liked,technology,video,100,83.0,AI tutorial video,16.8,5.0,12,3.7,11,90.6
+976,Harper White,63,education,tutorial,shared,gaming,tutorial,17,47.0,Gaming news blog,29.2,5.0,15,2.5,12,44.8
+977,Mia Levy,40,cooking,blog,liked,cooking,blog,58,80.0,Weekly recipes newsletter,15.1,7.0,15,4.9,18,83.9
+978,Harper Wilson,65,education,blog,viewed,education,blog,92,86.0,Online course video,9.1,7.0,16,4.6,21,95.7
+979,Olivia Davis,35,technology,blog,liked,music,tutorial,52,49.0,Personalized workout playlist,24.2,2.0,4,2.8,12,53.2
+980,Ella White,20,fitness,playlist,liked,fitness,tutorial,64,67.0,Healthy routine video,30.7,6.0,13,3.2,9,70.6
+981,Leah Scott,39,music,playlist,viewed,music,playlist,44,53.0,New album video review,29.0,4.0,14,2.4,13,54.6
+982,Noah Green,24,finance,podcast,viewed,education,newsletter,57,42.0,Science podcast,2.5,4.0,5,3.3,12,54.5
+983,Evelyn Garcia,42,fashion,podcast,viewed,fashion,newsletter,38,56.0,Designer interview podcast,8.5,5.0,14,3.7,23,60.7
+984,Ethan Smith,52,movies,playlist,saved,movies,playlist,50,75.0,Cinema podcast,46.0,12.0,15,4.7,14,78.2
+985,Emma Johnson,37,fitness,tutorial,liked,fitness,tutorial,69,87.0,Fitness progress newsletter,31.5,5.0,12,4.7,17,88.1
+986,Emily Harris,58,finance,video,viewed,finance,video,26,48.0,Investing basics blog,16.3,5.0,7,1.5,21,39.7
+987,Evelyn Adams,49,gaming,tutorial,viewed,gaming,newsletter,73,60.0,Esports highlights video,3.8,1.0,13,2.7,17,67.6
+988,Nora Adams,46,music,playlist,liked,technology,playlist,66,55.0,Tech trends newsletter,36.2,5.0,18,3.5,10,69.2
+989,Zoe Allen,20,technology,blog,purchased,technology,playlist,100,95.0,Python programming blog,58.8,9.0,16,4.6,17,100.0
+990,Hannah Thomas,61,fitness,video,viewed,fitness,video,65,70.0,Strength training guide,14.1,8.0,12,3.5,13,73.3
+991,Jackson Harris,36,technology,video,liked,technology,video,27,73.0,AI tutorial video,21.9,7.0,14,3.3,13,63.0
+992,Nora Allen,65,music,playlist,viewed,technology,playlist,100,66.0,Tech trends newsletter,32.7,5.0,12,4.2,22,85.5
+993,Harper Walker,50,cooking,tutorial,viewed,cooking,tutorial,64,62.0,Weekly recipes newsletter,28.5,5.0,5,3.7,11,67.6
+994,Chloe Anderson,35,travel,blog,liked,technology,blog,33,54.0,Python programming blog,14.4,8.0,13,3.4,14,56.4
+66,Harper Scott,51,technology,tutorial,liked,technology,tutorial,47,79.0,Cybersecurity podcast,29.6,7.0,11,3.8,8,73.1
+93,Sebastian Adams,53,music,video,saved,music,playlist,54,64.0,New album video review,44.3,7.0,15,3.7,9,69.5
+76,Leah Green,33,music,podcast,viewed,cooking,tutorial,70,54.0,Meal prep tutorial,25.0,6.0,11,2.4,16,61.7
+36,Aiden Hall,50,music,tutorial,viewed,music,tutorial,60,69.0,Trending pop playlist,23.8,4.0,15,3.7,18,73.6
+99,Henry Smith,26,technology,tutorial,viewed,cooking,tutorial,27,31.0,Meal prep tutorial,21.9,6.0,12,1.0,17,31.8
+13,Jackson Nelson,37,music,video,completed,music,newsletter,43,61.0,Indie music podcast,15.0,6.0,10,2.6,12,57.4
