@@ -1,4 +1,4 @@
-# AI Powered Personalized Content Recommendation System
+# Personalized Content Recommendation System
 
 ## Project Overview
 
