@@ -7,7 +7,6 @@ This project was developed as part of a Data Analytics Hackathon.
 The goal was to build a simple personalized recommendation system using Python and data analysis.  
 Instead of using a complex machine learning model, this project uses a clear rule-based approach: the system compares a user profile with different recommendation options and selects the best match.
 
-The project was designed to stay understandable, realistic, and easy to explain.
 
 ## Dataset
 
